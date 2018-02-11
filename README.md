@@ -1,6 +1,6 @@
 # rosettacode-by-nmbrs
 
-Some Countings for rosetta code 
+Some task countings for (http://rosettacode.org) Java, Groovy & Go specific.
 
 ![Gopher & Duke United](rosetta-by-nmbrs.png)
   
@@ -20,7 +20,7 @@ Today we found:
   
 ### Joins
 7 Grovvy not Java  
-**438 Missing Groovy, but in Java**  
+[438 Missing Groovy, but in Java]()
 256 Missing Java  
 251 Missing Go  
   
