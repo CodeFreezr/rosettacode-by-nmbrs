@@ -7,8 +7,8 @@
 |	1	|[	15_Puzzle_Game	](	http://www.rosettacode.org/wiki/15_Puzzle_Game	)|
 |	2	|[	2048	](	http://www.rosettacode.org/wiki/2048	)|
 |	3	|[	24_game/Solve	](	http://www.rosettacode.org/wiki/24_game/Solve	)|
-|		|	**A**			|
 |	4	|[	4-rings_or_4-squares_puzzle	](	http://www.rosettacode.org/wiki/4-rings_or_4-squares_puzzle	)|
+|		|	**»A«**			|
 |	5	|[	Active_Directory/Connect	](	http://www.rosettacode.org/wiki/Active_Directory/Connect	)|
 |	6	|[	Active_Directory/Search_for_a_user	](	http://www.rosettacode.org/wiki/Active_Directory/Search_for_a_user	)|
 |	7	|[	Active_object	](	http://www.rosettacode.org/wiki/Active_object	)|
@@ -26,6 +26,7 @@
 |	19	|[	AudioAlarm	](	http://www.rosettacode.org/wiki/AudioAlarm	)|
 |	20	|[	Average_loop_length	](	http://www.rosettacode.org/wiki/Average_loop_length	)|
 |	21	|[	AVL_tree	](	http://www.rosettacode.org/wiki/AVL_tree	)|
+|		|	**»B«**			|
 |	22	|[	Barnsley_fern	](	http://www.rosettacode.org/wiki/Barnsley_fern	)|
 |	23	|[	Base64_encode_data	](	http://www.rosettacode.org/wiki/Base64_encode_data	)|
 |	24	|[	Benford%27s_law	](	http://www.rosettacode.org/wiki/Benford%27s_law	)|
