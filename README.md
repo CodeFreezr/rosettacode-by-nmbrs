@@ -19,7 +19,7 @@ Today we found:
 388 Groovy-Examples  
   
 ### Joins
-7 Grovvy not Java  
+7 Grovvy not in Java  
 [438 Missing Groovy, but in Java]()
 256 Missing Java  
 251 Missing Go  
