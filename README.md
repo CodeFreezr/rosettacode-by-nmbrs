@@ -1,8 +1,8 @@
 # rosettacode-by-nmbrs
 
-![Gopher & Duke United](rosetta-by-nmbrs.png)
+Some Countings for rosetta code 
 
-Some Countings for rosetta code  
+![Gopher & Duke United](rosetta-by-nmbrs.png)
   
   
 ## 2018-02-11  
