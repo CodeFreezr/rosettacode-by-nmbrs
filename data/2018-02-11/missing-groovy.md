@@ -7,8 +7,8 @@
 |	1	|[	15_Puzzle_Game	](	http://www.rosettacode.org/wiki/15_Puzzle_Game	)|
 |	2	|[	2048	](	http://www.rosettacode.org/wiki/2048	)|
 |	3	|[	24_game/Solve	](	http://www.rosettacode.org/wiki/24_game/Solve	)|
-|		|	**A**			|
 |	4	|[	4-rings_or_4-squares_puzzle	](	http://www.rosettacode.org/wiki/4-rings_or_4-squares_puzzle	)|
+|		|	**»A«**			|
 |	5	|[	Active_Directory/Connect	](	http://www.rosettacode.org/wiki/Active_Directory/Connect	)|
 |	6	|[	Active_Directory/Search_for_a_user	](	http://www.rosettacode.org/wiki/Active_Directory/Search_for_a_user	)|
 |	7	|[	Active_object	](	http://www.rosettacode.org/wiki/Active_object	)|
@@ -26,6 +26,7 @@
 |	19	|[	AudioAlarm	](	http://www.rosettacode.org/wiki/AudioAlarm	)|
 |	20	|[	Average_loop_length	](	http://www.rosettacode.org/wiki/Average_loop_length	)|
 |	21	|[	AVL_tree	](	http://www.rosettacode.org/wiki/AVL_tree	)|
+|		|	**»B«**			|
 |	22	|[	Barnsley_fern	](	http://www.rosettacode.org/wiki/Barnsley_fern	)|
 |	23	|[	Base64_encode_data	](	http://www.rosettacode.org/wiki/Base64_encode_data	)|
 |	24	|[	Benford%27s_law	](	http://www.rosettacode.org/wiki/Benford%27s_law	)|
@@ -43,6 +44,7 @@
 |	36	|[	Break_OO_privacy	](	http://www.rosettacode.org/wiki/Break_OO_privacy	)|
 |	37	|[	Brownian_tree	](	http://www.rosettacode.org/wiki/Brownian_tree	)|
 |	38	|[	Bulls_and_cows	](	http://www.rosettacode.org/wiki/Bulls_and_cows	)|
+|		|	**»C«**			|
 |	39	|[	Calendar	](	http://www.rosettacode.org/wiki/Calendar	)|
 |	40	|[	Call_a_foreign-language_function	](	http://www.rosettacode.org/wiki/Call_a_foreign-language_function	)|
 |	41	|[	Call_a_function	](	http://www.rosettacode.org/wiki/Call_a_function	)|
@@ -75,6 +77,7 @@
 |	68	|[	CUSIP	](	http://www.rosettacode.org/wiki/CUSIP	)|
 |	69	|[	Cut_a_rectangle	](	http://www.rosettacode.org/wiki/Cut_a_rectangle	)|
 |	70	|[	Cycle_detection	](	http://www.rosettacode.org/wiki/Cycle_detection	)|
+|		|	**»D«**			|
 |	71	|[	Deal_cards_for_FreeCell	](	http://www.rosettacode.org/wiki/Deal_cards_for_FreeCell	)|
 |	72	|[	Death_Star	](	http://www.rosettacode.org/wiki/Death_Star	)|
 |	73	|[	Deconvolution/1D	](	http://www.rosettacode.org/wiki/Deconvolution/1D	)|
@@ -97,6 +100,7 @@
 |	90	|[	Draw_a_rotating_cube	](	http://www.rosettacode.org/wiki/Draw_a_rotating_cube	)|
 |	91	|[	Draw_a_sphere	](	http://www.rosettacode.org/wiki/Draw_a_sphere	)|
 |	92	|[	Dutch_national_flag_problem	](	http://www.rosettacode.org/wiki/Dutch_national_flag_problem	)|
+|		|	**»E«**			|
 |	93	|[	Echo_server	](	http://www.rosettacode.org/wiki/Echo_server	)|
 |	94	|[	Egyptian_division	](	http://www.rosettacode.org/wiki/Egyptian_division	)|
 |	95	|[	Element-wise_operations	](	http://www.rosettacode.org/wiki/Element-wise_operations	)|
@@ -115,6 +119,7 @@
 |	108	|[	Exponentiation_operator	](	http://www.rosettacode.org/wiki/Exponentiation_operator	)|
 |	109	|[	Exponentiation_order	](	http://www.rosettacode.org/wiki/Exponentiation_order	)|
 |	110	|[	Extract_file_extension	](	http://www.rosettacode.org/wiki/Extract_file_extension	)|
+|		|	**»F«**			|
 |	111	|[	Factors_of_a_Mersenne_number	](	http://www.rosettacode.org/wiki/Factors_of_a_Mersenne_number	)|
 |	112	|[	Farey_sequence	](	http://www.rosettacode.org/wiki/Farey_sequence	)|
 |	113	|[	Fast_Fourier_transform	](	http://www.rosettacode.org/wiki/Fast_Fourier_transform	)|
@@ -140,6 +145,7 @@
 |	133	|[	Fractal_tree	](	http://www.rosettacode.org/wiki/Fractal_tree	)|
 |	134	|[	Fractran	](	http://www.rosettacode.org/wiki/Fractran	)|
 |	135	|[	Free_polyominoes_enumeration	](	http://www.rosettacode.org/wiki/Free_polyominoes_enumeration	)|
+|		|	**»G«**			|
 |	136	|[	Galton_box_animation	](	http://www.rosettacode.org/wiki/Galton_box_animation	)|
 |	137	|[	Generate_Chess960_starting_position	](	http://www.rosettacode.org/wiki/Generate_Chess960_starting_position	)|
 |	138	|[	Generate_random_chess_position	](	http://www.rosettacode.org/wiki/Generate_random_chess_position	)|
@@ -154,6 +160,7 @@
 |	147	|[	Guess_the_number/With_feedback_(player)	](	http://www.rosettacode.org/wiki/Guess_the_number/With_feedback_(player)	)|
 |	148	|[	GUI_component_interaction	](	http://www.rosettacode.org/wiki/GUI_component_interaction	)|
 |	149	|[	GUI_enabling/disabling_of_controls	](	http://www.rosettacode.org/wiki/GUI_enabling/disabling_of_controls	)|
+|		|	**»H«**			|
 |	150	|[	Hamming_numbers	](	http://www.rosettacode.org/wiki/Hamming_numbers	)|
 |	151	|[	Handle_a_signal	](	http://www.rosettacode.org/wiki/Handle_a_signal	)|
 |	152	|[	Hello_world/Web_server	](	http://www.rosettacode.org/wiki/Hello_world/Web_server	)|
@@ -168,6 +175,7 @@
 |	161	|[	Horizontal_sundial_calculations	](	http://www.rosettacode.org/wiki/Horizontal_sundial_calculations	)|
 |	162	|[	Hough_transform	](	http://www.rosettacode.org/wiki/Hough_transform	)|
 |	163	|[	Hunt_The_Wumpus	](	http://www.rosettacode.org/wiki/Hunt_The_Wumpus	)|
+|		|	**»I«**			|
 |	164	|[	I_before_E_except_after_C	](	http://www.rosettacode.org/wiki/I_before_E_except_after_C	)|
 |	165	|[	Idiomatically_determine_all_the_characters_that_can_be_used_for_symbols	](	http://www.rosettacode.org/wiki/Idiomatically_determine_all_the_characters_that_can_be_used_for_symbols	)|
 |	166	|[	Idiomatically_determine_all_the_lowercase_and_uppercase_letters	](	http://www.rosettacode.org/wiki/Idiomatically_determine_all_the_lowercase_and_uppercase_letters	)|
@@ -185,15 +193,18 @@
 |	178	|[	Inverted_index	](	http://www.rosettacode.org/wiki/Inverted_index	)|
 |	179	|[	Inverted_syntax	](	http://www.rosettacode.org/wiki/Inverted_syntax	)|
 |	180	|[	Iterated_digits_squaring	](	http://www.rosettacode.org/wiki/Iterated_digits_squaring	)|
+|		|	**»J«**			|
 |	181	|[	Jaro_distance	](	http://www.rosettacode.org/wiki/Jaro_distance	)|
 |	182	|[	JortSort	](	http://www.rosettacode.org/wiki/JortSort	)|
 |	183	|[	Julia_set	](	http://www.rosettacode.org/wiki/Julia_set	)|
 |	184	|[	Jump_anywhere	](	http://www.rosettacode.org/wiki/Jump_anywhere	)|
+|		|	**»K«**			|
 |	185	|[	Kaprekar_numbers	](	http://www.rosettacode.org/wiki/Kaprekar_numbers	)|
 |	186	|[	Keyboard_input/Keypress_check	](	http://www.rosettacode.org/wiki/Keyboard_input/Keypress_check	)|
 |	187	|[	Keyboard_macros	](	http://www.rosettacode.org/wiki/Keyboard_macros	)|
 |	188	|[	Knight%27s_tour	](	http://www.rosettacode.org/wiki/Knight%27s_tour	)|
 |	189	|[	Knuth%27s_algorithm_S	](	http://www.rosettacode.org/wiki/Knuth%27s_algorithm_S	)|
+|		|	**»L«**			|
 |	190	|[	Langton%27s_ant	](	http://www.rosettacode.org/wiki/Langton%27s_ant	)|
 |	191	|[	Last_letter-first_letter	](	http://www.rosettacode.org/wiki/Last_letter-first_letter	)|
 |	192	|[	Left_factorials	](	http://www.rosettacode.org/wiki/Left_factorials	)|
@@ -209,6 +220,7 @@
 |	202	|[	Lucas-Lehmer_test	](	http://www.rosettacode.org/wiki/Lucas-Lehmer_test	)|
 |	203	|[	Ludic_numbers	](	http://www.rosettacode.org/wiki/Ludic_numbers	)|
 |	204	|[	Lychrel_numbers	](	http://www.rosettacode.org/wiki/Lychrel_numbers	)|
+|		|	**»M«**			|
 |	205	|[	MAC_Vendor_Lookup	](	http://www.rosettacode.org/wiki/MAC_Vendor_Lookup	)|
 |	206	|[	Mad_Libs	](	http://www.rosettacode.org/wiki/Mad_Libs	)|
 |	207	|[	Magic_squares_of_doubly_even_order	](	http://www.rosettacode.org/wiki/Magic_squares_of_doubly_even_order	)|
@@ -240,6 +252,7 @@
 |	233	|[	Munchausen_numbers	](	http://www.rosettacode.org/wiki/Munchausen_numbers	)|
 |	234	|[	Munching_squares	](	http://www.rosettacode.org/wiki/Munching_squares	)|
 |	235	|[	Mutex	](	http://www.rosettacode.org/wiki/Mutex	)|
+|		|	**»N«**			|
 |	236	|[	N%27th	](	http://www.rosettacode.org/wiki/N%27th	)|
 |	237	|[	Named_parameters	](	http://www.rosettacode.org/wiki/Named_parameters	)|
 |	238	|[	Narcissistic_decimal_number	](	http://www.rosettacode.org/wiki/Narcissistic_decimal_number	)|
@@ -255,6 +268,7 @@
 |	248	|[	Numeric_error_propagation	](	http://www.rosettacode.org/wiki/Numeric_error_propagation	)|
 |	249	|[	Numerical_integration/Gauss-Legendre_Quadrature	](	http://www.rosettacode.org/wiki/Numerical_integration/Gauss-Legendre_Quadrature	)|
 |	250	|[	NYSIIS	](	http://www.rosettacode.org/wiki/NYSIIS	)|
+|		|	**»O«**			|
 |	251	|[	Odd_word_problem	](	http://www.rosettacode.org/wiki/Odd_word_problem	)|
 |	252	|[	Old_lady_swallowed_a_fly	](	http://www.rosettacode.org/wiki/Old_lady_swallowed_a_fly	)|
 |	253	|[	Old_Russian_measure_of_length	](	http://www.rosettacode.org/wiki/Old_Russian_measure_of_length	)|
@@ -262,6 +276,7 @@
 |	255	|[	OpenGL	](	http://www.rosettacode.org/wiki/OpenGL	)|
 |	256	|[	Operator_precedence	](	http://www.rosettacode.org/wiki/Operator_precedence	)|
 |	257	|[	Order_disjoint_list_items	](	http://www.rosettacode.org/wiki/Order_disjoint_list_items	)|
+|		|	**»P«**			|
 |	258	|[	Pangram_checker	](	http://www.rosettacode.org/wiki/Pangram_checker	)|
 |	259	|[	Paraffins	](	http://www.rosettacode.org/wiki/Paraffins	)|
 |	260	|[	Parallel_Brute_Force	](	http://www.rosettacode.org/wiki/Parallel_Brute_Force	)|
@@ -299,8 +314,10 @@
 |	292	|[	Proper_divisors	](	http://www.rosettacode.org/wiki/Proper_divisors	)|
 |	293	|[	Pythagoras_tree	](	http://www.rosettacode.org/wiki/Pythagoras_tree	)|
 |	294	|[	Pythagorean_quadruples	](	http://www.rosettacode.org/wiki/Pythagorean_quadruples	)|
+|		|	**»Q«**			|
 |	295	|[	Quaternion_type	](	http://www.rosettacode.org/wiki/Quaternion_type	)|
 |	296	|[	Quickselect_algorithm	](	http://www.rosettacode.org/wiki/Quickselect_algorithm	)|
+|		|	**»R«**			|
 |	297	|[	Railway_circuit	](	http://www.rosettacode.org/wiki/Railway_circuit	)|
 |	298	|[	Ramer-Douglas-Peucker_line_simplification	](	http://www.rosettacode.org/wiki/Ramer-Douglas-Peucker_line_simplification	)|
 |	299	|[	Ramsey%27s_theorem	](	http://www.rosettacode.org/wiki/Ramsey%27s_theorem	)|
@@ -324,6 +341,7 @@
 |	317	|[	Rosetta_Code/Count_examples	](	http://www.rosettacode.org/wiki/Rosetta_Code/Count_examples	)|
 |	318	|[	Rosetta_Code/Fix_code_tags	](	http://www.rosettacode.org/wiki/Rosetta_Code/Fix_code_tags	)|
 |	319	|[	RSA_code	](	http://www.rosettacode.org/wiki/RSA_code	)|
+|		|	**»S«**			|
 |	320	|[	S-Expressions	](	http://www.rosettacode.org/wiki/S-Expressions	)|
 |	321	|[	Sailors,_coconuts_and_a_monkey_problem	](	http://www.rosettacode.org/wiki/Sailors,_coconuts_and_a_monkey_problem	)|
 |	322	|[	Same_Fringe	](	http://www.rosettacode.org/wiki/Same_Fringe	)|
@@ -384,6 +402,7 @@
 |	377	|[	Superpermutation_minimisation	](	http://www.rosettacode.org/wiki/Superpermutation_minimisation	)|
 |	378	|[	Sutherland-Hodgman_polygon_clipping	](	http://www.rosettacode.org/wiki/Sutherland-Hodgman_polygon_clipping	)|
 |	379	|[	Synchronous_concurrency	](	http://www.rosettacode.org/wiki/Synchronous_concurrency	)|
+|		|	**»T«**			|
 |	380	|[	Taxicab_numbers	](	http://www.rosettacode.org/wiki/Taxicab_numbers	)|
 |	381	|[	Terminal_control/Clear_the_screen	](	http://www.rosettacode.org/wiki/Terminal_control/Clear_the_screen	)|
 |	382	|[	Terminal_control/Display_an_extended_character	](	http://www.rosettacode.org/wiki/Terminal_control/Display_an_extended_character	)|
@@ -408,6 +427,7 @@
 |	401	|[	Truncate_a_file	](	http://www.rosettacode.org/wiki/Truncate_a_file	)|
 |	402	|[	Truth_table	](	http://www.rosettacode.org/wiki/Truth_table	)|
 |	403	|[	Two_Sum	](	http://www.rosettacode.org/wiki/Two_Sum	)|
+|		|	**»U«**			|
 |	404	|[	Ulam_spiral_(for_primes)	](	http://www.rosettacode.org/wiki/Ulam_spiral_(for_primes)	)|
 |	405	|[	Unbias_a_random_generator	](	http://www.rosettacode.org/wiki/Unbias_a_random_generator	)|
 |	406	|[	Undefined_values	](	http://www.rosettacode.org/wiki/Undefined_values	)|
@@ -420,6 +440,7 @@
 |	413	|[	User_input/Graphical	](	http://www.rosettacode.org/wiki/User_input/Graphical	)|
 |	414	|[	Using_the_Meetup.com_API	](	http://www.rosettacode.org/wiki/Using_the_Meetup.com_API	)|
 |	415	|[	UTF-8_encode_and_decode	](	http://www.rosettacode.org/wiki/UTF-8_encode_and_decode	)|
+|		|	**»V«**			|
 |	416	|[	Vampire_number	](	http://www.rosettacode.org/wiki/Vampire_number	)|
 |	417	|[	Van_der_Corput_sequence	](	http://www.rosettacode.org/wiki/Van_der_Corput_sequence	)|
 |	418	|[	Variables	](	http://www.rosettacode.org/wiki/Variables	)|
@@ -431,12 +452,14 @@
 |	424	|[	Visualize_a_tree	](	http://www.rosettacode.org/wiki/Visualize_a_tree	)|
 |	425	|[	Vogel%27s_approximation_method	](	http://www.rosettacode.org/wiki/Vogel%27s_approximation_method	)|
 |	426	|[	Voronoi_diagram	](	http://www.rosettacode.org/wiki/Voronoi_diagram	)|
+|		|	**»W«**			|
 |	427	|[	Welch%27s_t-test	](	http://www.rosettacode.org/wiki/Welch%27s_t-test	)|
 |	428	|[	Window_management	](	http://www.rosettacode.org/wiki/Window_management	)|
 |	429	|[	Wireworld	](	http://www.rosettacode.org/wiki/Wireworld	)|
 |	430	|[	Word_search	](	http://www.rosettacode.org/wiki/Word_search	)|
 |	431	|[	World_Cup_group_stage	](	http://www.rosettacode.org/wiki/World_Cup_group_stage	)|
 |	432	|[	Write_float_arrays_to_a_text_file	](	http://www.rosettacode.org/wiki/Write_float_arrays_to_a_text_file	)|
+|		|	**»X\|Y\|Z«**			|
 |	433	|[	Xiaolin_Wu%27s_line_algorithm	](	http://www.rosettacode.org/wiki/Xiaolin_Wu%27s_line_algorithm	)|
 |	434	|[	XML_Validation	](	http://www.rosettacode.org/wiki/XML_Validation	)|
 |	435	|[	Yahoo!_search_interface	](	http://www.rosettacode.org/wiki/Yahoo!_search_interface	)|
