@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script src="js/svg-pan-zoom.js"></script>
+  </head>
+
+  <body>
+    <h1>Demo for svg-pan-zoom: SVG in HTML 'embed' element</h1>
+    <embed id="svg1717" type="image/svg+xml" style="background-color:black; width: 1500px; height: 800px; border:1px solid black; " src="index-twopi4.svg" />
+
+    <script>
+      // Don't use window.onLoad like this in production, because it can only listen to one function.
+      window.onload = function() {
+        svgPanZoom('#svg1717', {
+          zoomEnabled: true,
+          controlIconsEnabled: true
+        });
+      };
+    </script>
+
+  </body>
+
+</html>

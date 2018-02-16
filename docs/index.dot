@@ -1,0 +1,212 @@
+digraph G {
+
+rankdir="LR"
+
+graph [bgcolor=gray15 pad="0" nodesep="4" ranksep="4" overlap=true ];
+node [fontsize=24 fontcolor=grey60 fontname="Impact" shape=plaintext];
+edge [color=yellow arrowhead=diamond] 
+
+    
+    n5281 [label="3D (5)",href="http://rosettacode.org/wiki?curid=5281"];
+    n9498 [label="Animation (3)",href="http://rosettacode.org/wiki?curid=9498"];
+    n2566 [label="Arbitrary precision (10)",href="http://rosettacode.org/wiki?curid=2566"];
+    n9494 [label="Arithmetic (19)",href="http://rosettacode.org/wiki?curid=9494"];
+    n3012 [label="Arithmetic operations (44)",href="http://rosettacode.org/wiki?curid=3012"];
+    n2011 [label="Basic Data Operations (15)",href="http://rosettacode.org/wiki?curid=2011"];
+    n3006 [label="Basic language learning (87)",href="http://rosettacode.org/wiki?curid=3006"];
+    n12907 [label="Cards (4)",href="http://rosettacode.org/wiki?curid=12907"];
+    n11484 [label="Cellular automata (5)",href="http://rosettacode.org/wiki?curid=11484"];
+    n9458 [label="Checksums (14)",href="http://rosettacode.org/wiki?curid=9458"];
+    n3304 [label="Classic CS problems and programs (34)",href="http://rosettacode.org/wiki?curid=3304"];
+    n1535 [label="Compilers and Interpreters (38)",href="http://rosettacode.org/wiki?curid=1535"];
+    n4375 [label="Compression (3)",href="http://rosettacode.org/wiki?curid=4375"];
+    n3003 [label="Concurrency (11)",href="http://rosettacode.org/wiki?curid=3003"];
+    n9403 [label="Constructive Solid Geometry (6)",href="http://rosettacode.org/wiki?curid=9403"];
+    n1939 [label="Control Structures (11)",href="http://rosettacode.org/wiki?curid=1939"];
+    n2013 [label="Data Structures (30)",href="http://rosettacode.org/wiki?curid=2013"];
+    n3014 [label="Database operations (4)",href="http://rosettacode.org/wiki?curid=3014"];
+    n9560 [label="Date and time (19)",href="http://rosettacode.org/wiki?curid=9560"];
+    n3000 [label="Discrete math (16)",href="http://rosettacode.org/wiki?curid=3000"];
+    n5349 [label="Draft Programming Tasks (206)",href="http://rosettacode.org/wiki?curid=5349"];
+    n3007 [label="Encryption (12)",href="http://rosettacode.org/wiki?curid=3007"];
+    n12561 [label="Excel (25)",href="http://rosettacode.org/wiki?curid=12561"];
+    n17620 [label="Excessively difficult task (4)",href="http://rosettacode.org/wiki?curid=17620"];
+    n9734 [label="File handling (15)",href="http://rosettacode.org/wiki?curid=9734"];
+    n2162 [label="File System Operations (11)",href="http://rosettacode.org/wiki?curid=2162"];
+    n3008 [label="Fractals (7)",href="http://rosettacode.org/wiki?curid=3008"];
+    n2 [label="Fun (virtual) (3)",href="http://rosettacode.org/wiki?curid=-2"];
+    n3107 [label="Games (45)",href="http://rosettacode.org/wiki?curid=3107"];
+    n9388 [label="Geometric Primitives (2)",href="http://rosettacode.org/wiki?curid=9388"];
+    n12766 [label="geometry (46)",href="http://rosettacode.org/wiki?curid=12766"];
+    n2532 [label="GMP (27)",href="http://rosettacode.org/wiki?curid=2532"];
+    n18202 [label="Graphics (9)",href="http://rosettacode.org/wiki?curid=18202"];
+    n6642 [label="Graphics algorithms (7)",href="http://rosettacode.org/wiki?curid=6642"];
+    n3004 [label="GUI (17)",href="http://rosettacode.org/wiki?curid=3004"];
+    n18104 [label="Handicap (5)",href="http://rosettacode.org/wiki?curid=18104"];
+    n18201 [label="Hardware (9)",href="http://rosettacode.org/wiki?curid=18201"];
+    n9453 [label="Higher-order functions (1)",href="http://rosettacode.org/wiki?curid=9453"];
+    n5216 [label="HTML (13)",href="http://rosettacode.org/wiki?curid=5216"];
+    n3221 [label="Image processing (8)",href="http://rosettacode.org/wiki?curid=3221"];
+    n9791 [label="Initialization (18)",href="http://rosettacode.org/wiki?curid=9791"];
+    n9707 [label="Internet Protocol (4)",href="http://rosettacode.org/wiki?curid=9707"];
+    n9708 [label="Internet Protocol (Multiprotocol) (1)",href="http://rosettacode.org/wiki?curid=9708"];
+    n9704 [label="Internet Protocol 4 (0)",href="http://rosettacode.org/wiki?curid=9704"];
+    n9705 [label="Internet Protocol 6 (0)",href="http://rosettacode.org/wiki?curid=9705"];
+    n9459 [label="Irrational numbers (3)",href="http://rosettacode.org/wiki?curid=9459"];
+    n2823 [label="Iteration (22)",href="http://rosettacode.org/wiki?curid=2823"];
+    n2236 [label="JSON (6)",href="http://rosettacode.org/wiki?curid=2236"];
+    n12948 [label="Keyboard input (2)",href="http://rosettacode.org/wiki?curid=12948"];
+    n2742 [label="Language_users (473)",href="http://rosettacode.org/wiki?curid=2742"];
+    n5191 [label="Languages (2)",href="http://rosettacode.org/wiki?curid=5191"];
+    n10388 [label="Logic (4)",href="http://rosettacode.org/wiki?curid=10388"];
+    n9826 [label="Loops (2)",href="http://rosettacode.org/wiki?curid=9826"];
+    n3001 [label="Mathematical operations (17)",href="http://rosettacode.org/wiki?curid=3001"];
+    n9493 [label="Mathematics (30)",href="http://rosettacode.org/wiki?curid=9493"];
+    n3009 [label="Matrices (17)",href="http://rosettacode.org/wiki?curid=3009"];
+    n3010 [label="Networking and Web Interaction (20)",href="http://rosettacode.org/wiki?curid=3010"];
+    n4476 [label="Non-Programming Languages (7)",href="http://rosettacode.org/wiki?curid=4476"];
+    n3128 [label="Object oriented (18)",href="http://rosettacode.org/wiki?curid=3128"];
+    n21224 [label="Palindromes (4)",href="http://rosettacode.org/wiki?curid=21224"];
+    n15842 [label="Percolation Simulations (4)",href="http://rosettacode.org/wiki?curid=15842"];
+    n3151 [label="Primary Categories (3)",href="http://rosettacode.org/wiki?curid=3151"];
+    n2535 [label="Prime Numbers (13)",href="http://rosettacode.org/wiki?curid=2535"];
+    n9768 [label="Printer (3)",href="http://rosettacode.org/wiki?curid=9768"];
+    n3282 [label="Probability and statistics (19)",href="http://rosettacode.org/wiki?curid=3282"];
+    n3011 [label="Programming environment operations (31)",href="http://rosettacode.org/wiki?curid=3011"];
+    n9452 [label="Programming language concepts (6)",href="http://rosettacode.org/wiki?curid=9452"];
+    n1537 [label="Programming Tasks (870)",href="http://rosettacode.org/wiki?curid=1537"];
+    n2153 [label="Puzzles (34)",href="http://rosettacode.org/wiki?curid=2153"];
+    n9499 [label="Randomness (10)",href="http://rosettacode.org/wiki?curid=9499"];
+    n3215 [label="Raster graphics operations (17)",href="http://rosettacode.org/wiki?curid=3215"];
+    n2490 [label="Recursion (25)",href="http://rosettacode.org/wiki?curid=2490"];
+    n1866 [label="Requesting Content (3)",href="http://rosettacode.org/wiki?curid=1866"];
+    n18196 [label="root (99999)",href="http://rosettacode.org/wiki?curid=18196"];
+    n3322 [label="Rosetta Code related (9)",href="http://rosettacode.org/wiki?curid=3322"];
+    n21246 [label="Routing algorithms (4)",href="http://rosettacode.org/wiki?curid=21246"];
+    n7589 [label="sciences (3)",href="http://rosettacode.org/wiki?curid=7589"];
+    n18149 [label="Simple (66)",href="http://rosettacode.org/wiki?curid=18149"];
+    n4341 [label="Software Engineering (2)",href="http://rosettacode.org/wiki?curid=4341"];
+    n1688 [label="Solutions (3)",href="http://rosettacode.org/wiki?curid=1688"];
+    n11748 [label="Solutions by Format (5)",href="http://rosettacode.org/wiki?curid=11748"];
+    n1737 [label="Solutions by Library (226)",href="http://rosettacode.org/wiki?curid=1737"];
+    n1689 [label="Solutions by Programming Language (44)",href="http://rosettacode.org/wiki?curid=1689"];
+    n1754 [label="Solutions by Programming Task (400)",href="http://rosettacode.org/wiki?curid=1754"];
+    n3002 [label="Sorting (12)",href="http://rosettacode.org/wiki?curid=3002"];
+    n2084 [label="Sorting Algorithms (26)",href="http://rosettacode.org/wiki?curid=2084"];
+    n18207 [label="Sound (4)",href="http://rosettacode.org/wiki?curid=18207"];
+    n1 [label="Special Pages (virtual) (85)",href="http://rosettacode.org/wiki?curid=-1"];
+    n9469 [label="Speech Synthesis (2)",href="http://rosettacode.org/wiki?curid=9469"];
+    n4751 [label="Static Category Cache (11)",href="http://rosettacode.org/wiki?curid=4751"];
+    n16049 [label="String algorithm (3)",href="http://rosettacode.org/wiki?curid=16049"];
+    n4647 [label="String manipulation (44)",href="http://rosettacode.org/wiki?curid=4647"];
+    n4231 [label="SVG (9)",href="http://rosettacode.org/wiki?curid=4231"];
+    n4367 [label="Temporal media (12)",href="http://rosettacode.org/wiki?curid=4367"];
+    n9386 [label="Terminal control (22)",href="http://rosettacode.org/wiki?curid=9386"];
+    n4816 [label="Testing (5)",href="http://rosettacode.org/wiki?curid=4816"];
+    n3005 [label="Text processing (37)",href="http://rosettacode.org/wiki?curid=3005"];
+    n4220 [label="Tr (4)",href="http://rosettacode.org/wiki?curid=4220"];
+    n2976 [label="Type System (14)",href="http://rosettacode.org/wiki?curid=2976"];
+    n10141 [label="Unicode (4)",href="http://rosettacode.org/wiki?curid=10141"];
+    n18079 [label="VPython (9)",href="http://rosettacode.org/wiki?curid=18079"];
+    n4103 [label="XML (10)",href="http://rosettacode.org/wiki?curid=4103"];
+
+n5281->n1754
+n9498->n1754
+n2566->n3001
+n9494->n1754
+n3012->n3001,n9494
+n2011->n3006
+n3006->n18149
+n12907->n2
+n11484->n2
+n9458->n1754
+n3304->n1754
+n1535->n18196
+n4375->n1754
+n3003->n1754
+n9403->n1754
+n1939->n3006
+n2013->n1754
+n3014->n1754
+n9560->n1754
+n3000->n3001,n9493
+n5349->n1866
+n3007->n1754,n3001
+n12561->n4476
+n17620->n18104
+n9734->n1754
+n2162->n3006,n9734
+n3008->n3001
+n3107->n1754,n2
+n9388->n1754,n9403
+n12766->n1754
+n2532->n1737,n2566
+n18202->n18196
+n6642->n1754,n18202
+n3004->n1754,n18202
+n18104->n18196
+n18201->n18196
+n9453->n9452
+n5216->n4476
+n3221->n1754,n18202
+n9791->n1754
+n9707->n3010,n1754
+n9708->n9707
+n9704->n9707
+n9705->n9707
+n9459->n3001,n3304
+n2823->n3006,n9826,n1939,n1754
+n2236->n4476,n11748
+n12948->n18196
+n2742->n1
+n5191->n18196
+n10388->n3001,n9493,n1754
+n9826->n1939
+n3001->n1754
+n9493->n1754
+n3009->n3001,n9493
+n3010->n1754
+n4476->n5191
+n3128->n1754
+n21224->n3005
+n15842->n18196
+n2535->n3001,n3304
+n9768->n18201
+n3282->n3001
+n3011->n1754
+n9452->n1754
+/* n1537->n4 */
+n2153->n1754,n2
+n9499->n1754
+n3215->n3221,n18202
+n2490->n1754
+n1866->n3151
+n3322->n1
+n21246->n1754
+n7589->n1754
+n18149->n18196
+n4341->n1754
+n1688->n3151
+n11748->n18196
+n1737->n3151,n4751
+n1689->n3151
+n1754->n3151
+n3002->n1754,n3304
+n2084->n3002
+n18207->n18196
+n9469->n4367,n1754
+n4751->n1
+n16049->n3005
+n4647->n1754,n3005
+n4231->n4476
+n4367->n1754
+n9386->n1754,n18201
+n4816->n4341
+n3005->n1754
+n4220->n4476
+n2976->n18196
+n10141->n18196
+n18079->n5281,n18202,n1696,n9498
+n4103->n4476	
+	
+}

@@ -1,0 +1,4223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="stylesvg.css"?>
+<?xml-stylesheet type="text/css" href="stylesvg.css"?><?xml-stylesheet type="text/css" href="stylesvg.css"?><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  
+
+   version="1.1"
+   id="svg1717"
+   sodipodi:docname="index-twopi4.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata1723">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1721" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     id="namedview1719"
+     showgrid="false"
+     inkscape:zoom="0.92816983"
+     inkscape:cx="299.51032"
+     inkscape:cy="2367.337"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1717" />
+  <polygon
+     style="fill:#262626"
+     id="polygon4"
+     points="0,-4315.2173 3624.4931,-4315.2173 3624.4931,0 0,0 "
+     stroke="transparent"
+     transform="matrix(0.96477083,0,0,0.94887278,-1.233742,4067.1149)" />
+  <g
+     class="node"
+     id="node1"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title6">n5281</title>
+    <g
+       id="a_node1">
+      <a
+         id="a10"
+         xlink:title="3D (5)"
+         xlink:href="http://rosettacode.org/wiki?curid=5281">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text8"
+           font-size="24.00"
+           y="-1779.5951"
+           x="3011.0569">3D (5)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node84"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title14">n1754</title>
+    <g
+       id="a_node84">
+      <a
+         id="a18"
+         xlink:title="Solutions by Programming Task (400)"
+         xlink:href="http://rosettacode.org/wiki?curid=1754">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text16"
+           font-size="24.00"
+           y="-2230.2793"
+           x="1156.7271">Solutions by Programming Task (400)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge1"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title22">n5281-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path24"
+       d="m 2971.0365,-1796.5218 c -231.1828,-56.1877 -1396.944,-339.5191 -1727.0728,-419.755" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon26"
+       points="1232.1108,-2219.1576 1236.9964,-2213.8537 1243.7714,-2216.3235 1238.8858,-2221.6274 " />
+  </g>
+  <g
+     class="node"
+     id="node2"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title29">n9498</title>
+    <g
+       id="a_node2">
+      <a
+         id="a33"
+         xlink:title="Animation (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=9498">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text31"
+           font-size="24.00"
+           y="-1881.1099"
+           x="3002.0498">Animation (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge2"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title37">n9498-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path39"
+       d="m 2925.6903,-1902.7586 c -289.643,-54.8058 -1321.1925,-249.9941 -1660.1558,-314.1322" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon41"
+       points="1253.5294,-2219.1624 1258.6811,-2214.1166 1265.3202,-2216.9313 1260.1685,-2221.9771 " />
+  </g>
+  <g
+     class="node"
+     id="node3"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title44">n2566</title>
+    <g
+       id="a_node3">
+      <a
+         id="a48"
+         xlink:title="Arbitrary precision (10)"
+         xlink:href="http://rosettacode.org/wiki?curid=2566">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text46"
+           font-size="24.00"
+           y="-1791.8365"
+           x="1579.204">Arbitrary precision (10)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node54"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title52">n3001</title>
+    <g
+       id="a_node54">
+      <a
+         id="a56"
+         xlink:title="Mathematical operations (17)"
+         xlink:href="http://rosettacode.org/wiki?curid=3001">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text54"
+           font-size="24.00"
+           y="-1855.0349"
+           x="1298.2238">Mathematical operations (17)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge3"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title60">n2566-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path62"
+       d="m 1497.5554,-1817.401 c -33.1918,-7.4656 -71.7319,-16.134 -106.0275,-23.8478" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon64"
+       points="1379.5899,-1843.9339 1384.5659,-1838.7148 1391.2974,-1841.3006 1386.3214,-1846.5198 " />
+  </g>
+  <g
+     class="node"
+     id="node4"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title67">n9494</title>
+    <g
+       id="a_node4">
+      <a
+         id="a71"
+         xlink:title="Arithmetic (19)"
+         xlink:href="http://rosettacode.org/wiki?curid=9494">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text69"
+           font-size="24.00"
+           y="-1981.4315"
+           x="2984.106">Arithmetic (19)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge4"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title75">n9494-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path77"
+       d="m 2901.1391,-1999.9297 c -285.7645,-38.9146 -1231.6946,-167.729 -1597.8634,-217.5929" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon79"
+       points="1291.2894,-2219.1548 1296.6948,-2214.3818 1303.1796,-2217.5356 1297.7743,-2222.3086 " />
+  </g>
+  <g
+     class="node"
+     id="node5"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title82">n3012</title>
+    <g
+       id="a_node5">
+      <a
+         id="a86"
+         xlink:title="Arithmetic operations (44)"
+         xlink:href="http://rosettacode.org/wiki?curid=3012">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text84"
+           font-size="24.00"
+           y="-925.03027"
+           x="2177.533">Arithmetic operations (44)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge6"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title90">n3012-&gt;n9494</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path92"
+       d="m 2191.5326,-950.5661 c 95.8035,-125.4777 654.3598,-857.0415 771.1638,-1010.0244" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon94"
+       points="2970.0372,-1970.205 2963.2168,-1967.8635 2962.7549,-1960.6672 2969.5753,-1963.0087 " />
+  </g>
+  <g
+     class="edge"
+     id="edge5"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title97">n3012-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path99"
+       d="m 2159.9685,-950.8075 c -110.0255,-116.3687 -703.9127,-744.4956 -835.7912,-883.9774" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon101"
+       points="1315.83,-1843.6134 1317.0456,-1836.5055 1324.0744,-1834.8938 1322.8587,-1842.0017 " />
+  </g>
+  <g
+     class="node"
+     id="node6"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title104">n2011</title>
+    <g
+       id="a_node6">
+      <a
+         id="a108"
+         xlink:title="Basic Data Operations (15)"
+         xlink:href="http://rosettacode.org/wiki?curid=2011">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text106"
+           font-size="24.00"
+           y="-1575.9175"
+           x="328.9464">Basic Data Operations (15)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node7"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title112">n3006</title>
+    <g
+       id="a_node7">
+      <a
+         id="a116"
+         xlink:title="Basic language learning (87)"
+         xlink:href="http://rosettacode.org/wiki?curid=3006">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text114"
+           font-size="24.00"
+           y="-1664.9423"
+           x="421.5939">Basic language learning (87)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge7"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title120">n2011-&gt;n3006</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path122"
+       d="m 197.1684,-1601.4555 c 44.9376,-14.1539 107.2615,-33.7839 154.8312,-48.7668" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon124"
+       points="363.4474,-1653.828 356.5228,-1655.8407 352.0017,-1650.2229 358.9262,-1648.2102 " />
+  </g>
+  <g
+     class="node"
+     id="node78"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title127">n18149</title>
+    <g
+       id="a_node78">
+      <a
+         id="a131"
+         xlink:title="Simple (66)"
+         xlink:href="http://rosettacode.org/wiki?curid=18149">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text129"
+           font-size="24.00"
+           y="-1728.6383"
+           x="132.1844">Simple (66)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge8"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title135">n3006-&gt;n18149</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path137"
+       d="m 338.2729,-1690.4804 c -40.6443,-8.9454 -89.2197,-19.6363 -129,-28.3915" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon139"
+       points="197.4972,-1721.4636 202.4972,-1716.2674 209.2168,-1718.8842 204.2168,-1724.0804 " />
+  </g>
+  <g
+     class="node"
+     id="node8"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title142">n12907</title>
+    <g
+       id="a_node8">
+      <a
+         id="a146"
+         xlink:title="Cards (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=12907">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text144"
+           font-size="24.00"
+           y="-3273.4705"
+           x="2634.4438">Cards (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node28"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title150">n2</title>
+    <g
+       id="a_node28">
+      <a
+         id="a154"
+         xlink:title="Fun (virtual) (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=-2">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text152"
+           font-size="24.00"
+           y="-3043.2786"
+           x="2447.8247">Fun (virtual) (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge9"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title158">n12907-&gt;n2</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path160"
+       d="m 2619.4875,-3262.222 c -32.6224,40.2393 -110.3381,136.1006 -149.0066,183.7976" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon162"
+       points="2462.8524,-3069.0148 2469.7381,-3071.1565 2470.4095,-3078.3363 2463.5238,-3076.1946 " />
+  </g>
+  <g
+     class="node"
+     id="node9"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title165">n11484</title>
+    <g
+       id="a_node9">
+      <a
+         id="a169"
+         xlink:title="Cellular automata (5)"
+         xlink:href="http://rosettacode.org/wiki?curid=11484">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text167"
+           font-size="24.00"
+           y="-3335.8545"
+           x="2494.8816">Cellular automata (5)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge10"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title173">n11484-&gt;n2</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path175"
+       d="m 2491.938,-3324.7524 c -7.8543,48.8343 -29.3742,182.6342 -39.1564,243.4549" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon177"
+       points="2450.8279,-3069.1504 2455.73,-3074.4391 2452.7336,-3080.9981 2447.8315,-3075.7095 " />
+  </g>
+  <g
+     class="node"
+     id="node10"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title180">n9458</title>
+    <g
+       id="a_node10">
+      <a
+         id="a184"
+         xlink:title="Checksums (14)"
+         xlink:href="http://rosettacode.org/wiki?curid=9458">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text182"
+           font-size="24.00"
+           y="-2079.7744"
+           x="2957.366">Checksums (14)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge11"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title188">n9458-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path190"
+       d="m 2871.124,-2094.183 c -271.9501,-22.7307 -1116.6875,-93.3372 -1509.5891,-126.1775" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon192"
+       points="1349.47,-2221.369 1355.116,-2216.883 1361.4283,-2220.3693 1355.7824,-2224.8552 " />
+  </g>
+  <g
+     class="node"
+     id="node11"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title195">n3304</title>
+    <g
+       id="a_node11">
+      <a
+         id="a199"
+         xlink:title="Classic CS problems and programs (34)"
+         xlink:href="http://rosettacode.org/wiki?curid=3304">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text197"
+           font-size="24.00"
+           y="-2175.3694"
+           x="2922.0391">Classic CS problems and programs (34)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge12"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title203">n3304-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path205"
+       d="m 2722.1112,-2188.7882 c -338.1135,-10.517 -1019.2884,-31.7048 -1360.6333,-42.3223" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon207"
+       points="1349.4796,-2231.4837 1355.3523,-2227.299 1361.4738,-2231.1105 1355.6011,-2235.2951 " />
+  </g>
+  <g
+     class="node"
+     id="node12"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title210">n1535</title>
+    <g
+       id="a_node12">
+      <a
+         id="a214"
+         xlink:title="Compilers and Interpreters (38)"
+         xlink:href="http://rosettacode.org/wiki?curid=1535">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text212"
+           font-size="24.00"
+           y="-3732.3164"
+           x="2082.7388">Compilers and Interpreters (38)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node74"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title218">n18196</title>
+    <g
+       id="a_node74">
+      <a
+         id="a222"
+         xlink:title="root (virtual)"
+         xlink:href="http://rosettacode.org/wiki?curid=18196">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text220"
+           font-size="24.00"
+           y="-3306.2065"
+           x="1155.0159">root (virtual)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge13"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title226">n1535-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path228"
+       d="m 2042.8756,-3721.2069 c -148.6009,68.2535 -670.2716,307.8606 -836.538,384.228" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon230"
+       points="1194.9906,-3331.7671 1202.1125,-3330.6366 1205.8953,-3336.7758 1198.7734,-3337.9064 " />
+  </g>
+  <g
+     class="node"
+     id="node13"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title233">n4375</title>
+    <g
+       id="a_node13">
+      <a
+         id="a237"
+         xlink:title="Compression (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=4375">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text235"
+           font-size="24.00"
+           y="-2267.4683"
+           x="2878.4016">Compression (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge14"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title241">n4375-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path243"
+       d="m 2790.0604,-2272.76 c -263.9984,5.7025 -1051.9762,22.7232 -1428.5438,30.8573" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon245"
+       points="1349.3961,-2241.6409 1355.4811,-2237.7715 1361.3933,-2241.9002 1355.3083,-2245.7696 " />
+  </g>
+  <g
+     class="node"
+     id="node14"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title248">n3003</title>
+    <g
+       id="a_node14">
+      <a
+         id="a252"
+         xlink:title="Concurrency (11)"
+         xlink:href="http://rosettacode.org/wiki?curid=3003">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text250"
+           font-size="24.00"
+           y="-2355.3499"
+           x="2826.7954">Concurrency (11)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge15"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title256">n3003-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path258"
+       d="m 2733.7272,-2355.58 c -261.6049,19.5915 -1008.0681,75.4938 -1372.2188,102.7648" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon260"
+       points="1349.5158,-2251.9171 1355.7978,-2248.3764 1361.4823,-2252.8133 1355.2003,-2256.354 " />
+  </g>
+  <g
+     class="node"
+     id="node15"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title263">n9403</title>
+    <g
+       id="a_node15">
+      <a
+         id="a267"
+         xlink:title="Constructive Solid Geometry (6)"
+         xlink:href="http://rosettacode.org/wiki?curid=9403">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text265"
+           font-size="24.00"
+           y="-2438.3264"
+           x="2767.624">Constructive Solid Geometry (6)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge16"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title271">n9403-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path273"
+       d="m 2625.7271,-2427.2006 c -301.3802,38.9233 -1003.2079,129.5643 -1314.9944,169.8316" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon275"
+       points="1298.4473,-2255.7824 1304.9103,-2252.5839 1310.3485,-2257.3195 1303.8855,-2260.518 " />
+  </g>
+  <g
+     class="node"
+     id="node16"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title278">n1939</title>
+    <g
+       id="a_node16">
+      <a
+         id="a282"
+         xlink:title="Control Structures (11)"
+         xlink:href="http://rosettacode.org/wiki?curid=1939">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text280"
+           font-size="24.00"
+           y="-1475.0996"
+           x="442.68021">Control Structures (11)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge17"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title286">n1939-&gt;n3006</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path288"
+       d="m 440.62,-1500.8482 c -3.639,-32.7623 -11.236,-101.1587 -15.6501,-140.8994" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon290"
+       points="423.6314,-1653.7979 420.3183,-1647.393 424.9562,-1641.8713 428.2694,-1648.2762 " />
+  </g>
+  <g
+     class="node"
+     id="node17"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title293">n2013</title>
+    <g
+       id="a_node17">
+      <a
+         id="a297"
+         xlink:title="Data Structures (30)"
+         xlink:href="http://rosettacode.org/wiki?curid=2013">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text295"
+           font-size="24.00"
+           y="-2515.749"
+           x="2701.3506">Data Structures (30)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge18"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title301">n2013-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path303"
+       d="m 2602.0824,-2504.6027 c -274.9878,50.8219 -1045.3095,193.189 -1334.1194,246.5654" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon305"
+       points="1255.819,-2255.7929 1262.446,-2252.95 1267.6191,-2257.9738 1260.9921,-2260.8167 " />
+  </g>
+  <g
+     class="node"
+     id="node18"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title308">n3014</title>
+    <g
+       id="a_node18">
+      <a
+         id="a312"
+         xlink:title="Database operations (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=3014">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text310"
+           font-size="24.00"
+           y="-2587.0112"
+           x="2628.4941">Database operations (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge19"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title316">n3014-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path318"
+       d="m 2552.9759,-2575.9069 c -248.9647,60.3449 -1043.0586,252.8202 -1308.7217,317.2126" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon320"
+       points="1232.3833,-2255.817 1239.1567,-2253.343 1244.0456,-2258.6439 1237.2722,-2261.1179 " />
+  </g>
+  <g
+     class="node"
+     id="node19"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title323">n9560</title>
+    <g
+       id="a_node19">
+      <a
+         id="a327"
+         xlink:title="Date and time (19)"
+         xlink:href="http://rosettacode.org/wiki?curid=9560">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text325"
+           font-size="24.00"
+           y="-2651.5557"
+           x="2549.6245">Date and time (19)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge20"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title331">n9560-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path333"
+       d="m 2488.8778,-2640.383 c -225.7783,68.2858 -1016.0882,307.3119 -1259.9411,381.0643" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon335"
+       points="1217.4004,-2255.8296 1224.3015,-2253.7379 1228.8866,-2259.3037 1221.9855,-2261.3954 " />
+  </g>
+  <g
+     class="node"
+     id="node20"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title338">n3000</title>
+    <g
+       id="a_node20">
+      <a
+         id="a342"
+         xlink:title="Discrete math (16)"
+         xlink:href="http://rosettacode.org/wiki?curid=3000">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text340"
+           font-size="24.00"
+           y="-956.22223"
+           x="2247.3142">Discrete math (16)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge21"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title346">n3000-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path348"
+       d="m 2227.9256,-981.7836 c -119.7529,-113.4091 -758.3125,-718.1412 -901.2861,-853.5408" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon350"
+       points="1317.5814,-1843.9026 1319.1874,-1836.8726 1326.2943,-1835.6513 1324.6883,-1842.6813 " />
+  </g>
+  <g
+     class="node"
+     id="node55"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title353">n9493</title>
+    <g
+       id="a_node55">
+      <a
+         id="a357"
+         xlink:title="Mathematics (30)"
+         xlink:href="http://rosettacode.org/wiki?curid=9493">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text355"
+           font-size="24.00"
+           y="-1329.3137"
+           x="779.6087">Mathematics (30)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge22"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title361">n3000-&gt;n9493</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path363"
+       d="m 2175.031,-981.7966 c -245.9078,-62.5099 -1049.3407,-266.743 -1311.7118,-333.4379" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon365"
+       points="851.6092,-1318.2112 856.4388,-1312.8562 863.2393,-1315.2547 858.4098,-1320.6096 " />
+  </g>
+  <g
+     class="node"
+     id="node21"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title368">n5349</title>
+    <g
+       id="a_node21">
+      <a
+         id="a372"
+         xlink:title="Draft Programming Tasks (206)"
+         xlink:href="http://rosettacode.org/wiki?curid=5349">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text370"
+           font-size="24.00"
+           y="-1281.9071"
+           x="3122.0391">Draft Programming Tasks (206)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node73"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title376">n1866</title>
+    <g
+       id="a_node73">
+      <a
+         id="a380"
+         xlink:title="Requesting Content (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=1866">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text378"
+           font-size="24.00"
+           y="-1393.5898"
+           x="2656.5754">Requesting Content (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge23"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title384">n5349-&gt;n1866</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path386"
+       d="m 2878.5004,-1307.4242 c -45.715,-19.2327 -117.7025,-49.5184 -167.2225,-70.3519" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon388"
+       points="2700.1378,-1382.4628 2704.1172,-1376.4491 2711.1988,-1377.8093 2707.2195,-1383.823 " />
+  </g>
+  <g
+     class="node"
+     id="node22"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title391">n3007</title>
+    <g
+       id="a_node22">
+      <a
+         id="a395"
+         xlink:title="Encryption (12)"
+         xlink:href="http://rosettacode.org/wiki?curid=3007">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text393"
+           font-size="24.00"
+           y="-993.45941"
+           x="2314.0654">Encryption (12)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge25"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title399">n3007-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path401"
+       d="m 2292.3782,-1019.0532 c -130.2712,-110.4881 -808.4121,-685.6462 -962.836,-816.6192" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon403"
+       points="1320.1394,-1843.6473 1322.1279,-1836.7158 1329.2911,-1835.8854 1327.3025,-1842.8169 " />
+  </g>
+  <g
+     class="edge"
+     id="edge24"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title406">n3007-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path408"
+       d="M 2296.807,-1019.1031 C 2166.6777,-1158.1692 1340.3653,-2041.2293 1182.7004,-2209.722" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon410"
+       points="1174.085,-2218.9291 1175.2638,-2211.815 1182.2841,-2210.1669 1181.1053,-2217.281 " />
+  </g>
+  <g
+     class="node"
+     id="node23"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title413">n12561</title>
+    <g
+       id="a_node23">
+      <a
+         id="a417"
+         xlink:title="Excel (25)"
+         xlink:href="http://rosettacode.org/wiki?curid=12561">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text415"
+           font-size="24.00"
+           y="-4289.6172"
+           x="1460.3712">Excel (25)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node58"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title421">n4476</title>
+    <g
+       id="a_node58">
+      <a
+         id="a425"
+         xlink:title="Non-Programming Languages (7)"
+         xlink:href="http://rosettacode.org/wiki?curid=4476">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text423"
+           font-size="24.00"
+           y="-3906.9287"
+           x="1109.5399">Non-Programming Languages (7)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge26"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title429">n12561-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path431"
+       d="m 1443.4499,-4278.3594 c -56.7202,61.8706 -240.3604,262.1864 -308.3158,336.3125" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon433"
+       points="1126.7024,-3932.8496 1133.7055,-3934.5693 1134.8116,-3941.6951 1127.8085,-3939.9754 " />
+  </g>
+  <g
+     class="node"
+     id="node24"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title436">n17620</title>
+    <g
+       id="a_node24">
+      <a
+         id="a440"
+         xlink:title="Excessively difficult task (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=17620">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text438"
+           font-size="24.00"
+           y="-4032.0745"
+           x="1911.1537">Excessively difficult task (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node36"
+     transform="translate(-5.6570575,4284.5075)">
+    <title
+       id="title444">n18104</title>
+    <g
+       id="a_node36">
+      <a
+         id="a448"
+         xlink:title="Handicap (5)"
+         xlink:href="http://rosettacode.org/wiki?curid=18104">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text446"
+           font-size="24.00"
+           y="-3744.145"
+           x="1904.7826"
+           x-style="font-size:24px">Handicap (5)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge27"
+     transform="matrix(1.0061554,0,0,0.88096662,-11.732233,3836.6345)">
+    <title
+       id="title452">n17620-&gt;n18104</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path454"
+       d="m 1910.7455,-4020.8252 c -1.0673,48.234 -3.9496,178.4921 -5.2769,238.4744" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon456"
+       points="1905.4612,-3782.0103 1901.3294,-3776.1003 1905.1956,-3770.0132 1909.3274,-3775.9232 " />
+  </g>
+  <g
+     class="node"
+     id="node25"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title459">n9734</title>
+    <g
+       id="a_node25">
+      <a
+         id="a463"
+         xlink:title="File handling (15)"
+         xlink:href="http://rosettacode.org/wiki?curid=9734">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text461"
+           font-size="24.00"
+           y="-2708.8767"
+           x="2465.3591">File handling (15)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge28"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title467">n9734-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path469"
+       d="m 2415.2598,-2697.7543 c -204.1538,74.6638 -973.0738,355.876 -1196.9937,437.7688" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon471"
+       points="1206.7763,-2255.7834 1213.7852,-2254.0876 1218.0463,-2259.9052 1211.0374,-2261.601 " />
+  </g>
+  <g
+     class="node"
+     id="node26"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title474">n2162</title>
+    <g
+       id="a_node26">
+      <a
+         id="a478"
+         xlink:title="File System Operations (11)"
+         xlink:href="http://rosettacode.org/wiki?curid=2162">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text476"
+           font-size="24.00"
+           y="-2953.9365"
+           x="2616.6528">File System Operations (11)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge29"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title482">n2162-&gt;n3006</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path484"
+       d="M 2585.201,-2942.6672 C 2340.543,-2798.9978 743.788,-1861.3428 463.5472,-1696.7783" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon486"
+       points="453.0266,-1690.6004 460.226,-1690.1894 463.3744,-1696.6769 456.175,-1697.0879 " />
+  </g>
+  <g
+     class="edge"
+     id="edge30"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title489">n2162-&gt;n9734</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path491"
+       d="m 2605.2812,-2942.7172 c -26.1215,42.3105 -90.5771,146.7133 -122.0512,197.6937" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon493"
+       points="2476.8627,-2734.7099 2483.4183,-2737.714 2483.1666,-2744.9207 2476.611,-2741.9166 " />
+  </g>
+  <g
+     class="node"
+     id="node27"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title496">n3008</title>
+    <g
+       id="a_node27">
+      <a
+         id="a500"
+         xlink:title="Fractals (7)"
+         xlink:href="http://rosettacode.org/wiki?curid=3008">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text498"
+           font-size="24.00"
+           y="-1036.4503"
+           x="2377.2644">Fractals (7)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge31"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title504">n3008-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path506"
+       d="m 2352.9577,-1062.09 c -141.1853,-107.1063 -855.2156,-648.7857 -1020.5305,-774.1973" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon508"
+       points="1322.7755,-1843.6093 1325.138,-1836.7962 1332.3358,-1836.3567 1329.9732,-1843.1698 " />
+  </g>
+  <g
+     class="node"
+     id="node29"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title511">n3107</title>
+    <g
+       id="a_node29">
+      <a
+         id="a515"
+         xlink:title="Games (45)"
+         xlink:href="http://rosettacode.org/wiki?curid=3107">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text513"
+           font-size="24.00"
+           y="-2780.3503"
+           x="2330.2966">Games (45)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge33"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title519">n3107-&gt;n2</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path521"
+       d="m 2338.5611,-2806.039 c 20.104,-44.9757 71.6985,-160.4005 96.0996,-214.9893" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon523"
+       points="2439.5696,-3032.0103 2433.4693,-3028.165 2434.6726,-3021.055 2440.7729,-3024.9003 " />
+  </g>
+  <g
+     class="edge"
+     id="edge32"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title526">n3107-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path528"
+       d="m 2291.25,-2769.2486 c -175.0882,82.0667 -887.838,416.1441 -1084.2169,508.1901" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon530"
+       points="1195.9204,-2255.8498 1203.0509,-2254.7744 1206.786,-2260.9427 1199.6556,-2262.0182 " />
+  </g>
+  <g
+     class="node"
+     id="node30"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title533">n9388</title>
+    <g
+       id="a_node30">
+      <a
+         id="a537"
+         xlink:title="Geometric Primitives (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=9388">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text535"
+           font-size="24.00"
+           y="-2833.3191"
+           x="2186.9629">Geometric Primitives (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge35"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title541">n9388-&gt;n9403</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path543"
+       d="m 2214.1905,-2821.9977 c 94.391,64.2092 407.7148,277.3465 516.1313,351.0965" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon545"
+       points="2740.4553,-2464.008 2737.7441,-2470.69 2730.5333,-2470.7574 2733.2445,-2464.0754 " />
+  </g>
+  <g
+     class="edge"
+     id="edge34"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title548">n9388-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path550"
+       d="m 2155.5674,-2822.1421 c -149.2333,87.3524 -786.6839,460.4788 -956.9108,560.1198" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon552"
+       points="1188.1298,-2255.8606 1195.3287,-2255.4395 1198.4861,-2261.9226 1191.2873,-2262.3437 " />
+  </g>
+  <g
+     class="node"
+     id="node31"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title555">n12766</title>
+    <g
+       id="a_node31">
+      <a
+         id="a559"
+         xlink:title="geometry (46)"
+         xlink:href="http://rosettacode.org/wiki?curid=12766">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text557"
+           font-size="24.00"
+           y="-2857.8772"
+           x="2088.0522">geometry (46)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge36"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title563">n12766-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path565"
+       d="m 2060.6838,-2846.6342 c -133.0636,89.6684 -712.2677,479.9803 -866.2473,583.7434" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon567"
+       points="1184.0969,-2255.9231 1191.3079,-2255.959 1194.0482,-2262.6291 1186.8372,-2262.5933 " />
+  </g>
+  <g
+     class="node"
+     id="node32"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title570">n2532</title>
+    <g
+       id="a_node32">
+      <a
+         id="a574"
+         xlink:title="GMP (27)"
+         xlink:href="http://rosettacode.org/wiki?curid=2532">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text572"
+           font-size="24.00"
+           y="-1728.6383"
+           x="1860.1844">GMP (27)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge38"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title578">n2532-&gt;n2566</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path580"
+       d="m 1802.9852,-1748.7036 c -37.4005,-8.4121 -87.1266,-19.5966 -130.2046,-29.2857" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon582"
+       points="1660.8224,-1780.6789 1665.7984,-1775.4598 1672.5299,-1778.0456 1667.5539,-1783.2648 " />
+  </g>
+  <g
+     class="node"
+     id="node82"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title585">n1737</title>
+    <g
+       id="a_node82">
+      <a
+         id="a589"
+         xlink:title="Solutions by Library (226)"
+         xlink:href="http://rosettacode.org/wiki?curid=1737">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text587"
+           font-size="24.00"
+           y="-1665.4399"
+           x="2141.1648">Solutions by Library (226)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge37"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title593">n2532-&gt;n1737</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path595"
+       d="m 1917.3837,-1722.973 c 37.4005,8.4121 87.1265,19.5966 130.2046,29.2857" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon597"
+       points="2059.5465,-1690.9977 2054.5705,-1696.2168 2047.8389,-1693.631 2052.8149,-1688.4118 " />
+  </g>
+  <g
+     class="node"
+     id="node33"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title600">n18202</title>
+    <g
+       id="a_node33">
+      <a
+         id="a604"
+         xlink:title="Graphics (9)"
+         xlink:href="http://rosettacode.org/wiki?curid=18202">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text602"
+           font-size="24.00"
+           y="-3043.2786"
+           x="1272.5439">Graphics (9)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge39"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title608">n18202-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path610"
+       d="m 1264.2797,-3068.967 c -20.104,-44.9758 -71.6986,-160.4005 -96.0996,-214.9894" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon612"
+       points="1163.2712,-3294.9383 1162.0679,-3287.8283 1168.1682,-3283.983 1169.3715,-3291.093 " />
+  </g>
+  <g
+     class="node"
+     id="node34"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title615">n6642</title>
+    <g
+       id="a_node34">
+      <a
+         id="a619"
+         xlink:title="Graphics algorithms (7)"
+         xlink:href="http://rosettacode.org/wiki?curid=6642">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text617"
+           font-size="24.00"
+           y="-2780.3503"
+           x="1390.0721">Graphics algorithms (7)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge41"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title623">n6642-&gt;n18202</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path625"
+       d="m 1381.8078,-2806.039 c -20.1041,-44.9757 -71.6986,-160.4005 -96.0997,-214.9893" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon627"
+       points="1280.7992,-3032.0103 1279.596,-3024.9003 1285.6963,-3021.055 1286.8996,-3028.165 " />
+  </g>
+  <g
+     class="edge"
+     id="edge40"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title630">n6642-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path632"
+       d="m 1382.3083,-2769.2486 c -34.0853,80.3502 -170.6504,402.279 -212.9958,502.1012" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon634"
+       points="1164.5199,-2255.8498 1170.5455,-2259.8112 1169.2063,-2266.8969 1163.1807,-2262.9355 " />
+  </g>
+  <g
+     class="node"
+     id="node35"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title637">n3004</title>
+    <g
+       id="a_node35">
+      <a
+         id="a641"
+         xlink:title="GUI (17)"
+         xlink:href="http://rosettacode.org/wiki?curid=3004">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text639"
+           font-size="24.00"
+           y="-2311.98"
+           x="866.79797">GUI (17)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge43"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title645">n3004-&gt;n18202</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path647"
+       d="m 877.0307,-2337.6228 c 54.6508,-98.5002 312.1419,-562.5907 379.4059,-683.8244" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon649"
+       points="1262.339,-3032.0854 1255.9303,-3028.7795 1256.5171,-3021.5923 1262.9258,-3024.8982 " />
+  </g>
+  <g
+     class="edge"
+     id="edge42"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title652">n3004-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path654"
+       d="m 918.9664,-2304.4791 c 44.9213,12.6586 110.352,31.0967 161.2075,45.4276" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon656"
+       points="1091.7762,-2255.782 1087.0861,-2261.2595 1080.226,-2259.0369 1084.9162,-2253.5594 " />
+  </g>
+  <g
+     class="edge"
+     id="edge44"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title659">n18104-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path661"
+       d="m 1873.0449,-3732.807 c -119.1497,69.5953 -539.8766,315.3418 -675.5315,394.5778" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon663"
+       points="1186.7615,-3331.9491 1193.9599,-3331.5213 1197.1234,-3338.0015 1189.925,-3338.4292 " />
+  </g>
+  <g
+     class="node"
+     id="node37"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title666">n18201</title>
+    <g
+       id="a_node37">
+      <a
+         id="a670"
+         xlink:title="Hardware (9)"
+         xlink:href="http://rosettacode.org/wiki?curid=18201">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text668"
+           font-size="24.00"
+           y="-297.4397"
+           x="2019.1519">Hardware (9)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge45"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title674">n18201-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path676"
+       d="M 2013.8576,-323.0733 C 1946.111,-558.9548 1249.538,-2984.2974 1163.6789,-3283.2436" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon678"
+       points="1160.3609,-3294.7965 1158.1726,-3287.9254 1163.6735,-3283.2628 1165.8617,-3290.1338 " />
+  </g>
+  <g
+     class="node"
+     id="node38"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title681">n9453</title>
+    <g
+       id="a_node38">
+      <a
+         id="a685"
+         xlink:title="Higher-order functions (1)"
+         xlink:href="http://rosettacode.org/wiki?curid=9453">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text683"
+           font-size="24.00"
+           y="-792.22241"
+           x="766.23499">Higher-order functions (1)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node67"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title689">n9452</title>
+    <g
+       id="a_node67">
+      <a
+         id="a693"
+         xlink:title="Programming language concepts (6)"
+         xlink:href="http://rosettacode.org/wiki?curid=9452">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text691"
+           font-size="24.00"
+           y="-979.50562"
+           x="985.0249">Programming language concepts (6)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge46"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title697">n9453-&gt;n9452</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path699"
+       d="m 788.0133,-818.0645 c 39.0708,-33.4444 121.1731,-103.7236 166.0709,-142.1559" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon701"
+       points="963.3347,-968.1389 956.1754,-967.2759 954.2184,-960.3354 961.3777,-961.1984 " />
+  </g>
+  <g
+     class="node"
+     id="node39"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title704">n5216</title>
+    <g
+       id="a_node39">
+      <a
+         id="a708"
+         xlink:title="HTML (13)"
+         xlink:href="http://rosettacode.org/wiki?curid=5216">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text706"
+           font-size="24.00"
+           y="-4244.2603"
+           x="1235.5961">HTML (13)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge47"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title712">n5216-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path714"
+       d="m 1228.6393,-4232.8433 c -20.7478,55.5219 -82.3308,220.3203 -107.8389,288.5811" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon716"
+       points="1116.4753,-3932.688 1122.3225,-3936.9082 1120.6759,-3943.9288 1114.8287,-3939.7086 " />
+  </g>
+  <g
+     class="node"
+     id="node40"
+     transform="translate(-67.884687,4327.3396)">
+    <title
+       id="title719">n3221</title>
+    <g
+       id="a_node40">
+      <a
+         id="a723"
+         xlink:title="Image processing (8)"
+         xlink:href="http://rosettacode.org/wiki?curid=3221">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text721"
+           font-size="24.00"
+           y="-2221.9016"
+           x="819.12952"
+           x-style="font-size:24px">Image processing (8)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge49"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title727">n3221-&gt;n18202</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path729"
+       d="m 829.2355,-2247.4089 c 58.5988,-106.1538 354.6561,-642.4724 427.2305,-773.9436" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon731"
+       points="1262.4137,-3032.127 1256.0122,-3028.8073 1256.6144,-3021.6214 1263.0159,-3024.9411 " />
+  </g>
+  <g
+     class="edge"
+     id="edge48"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title734">n3221-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path736"
+       d="m 928.2715,-2231.81 c 7.6757,-0.1905 15.5402,-0.3857 23.5178,-0.5836" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon738"
+       points="963.9733,-2232.696 957.8759,-2236.5458 951.977,-2232.3982 958.0744,-2228.5483 " />
+  </g>
+  <g
+     class="node"
+     id="node41"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title741">n9791</title>
+    <g
+       id="a_node41">
+      <a
+         id="a745"
+         xlink:title="Initialization (18)"
+         xlink:href="http://rosettacode.org/wiki?curid=9791">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text743"
+           font-size="24.00"
+           y="-2127.9629"
+           x="779.6087">Initialization (18)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge50"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title749">n9791-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path751"
+       d="m 847.4654,-2153.5731 c 64.5158,-17.5039 161.5545,-43.8315 229.6862,-62.3164" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon753"
+       points="1089.0979,-2219.1307 1082.2598,-2221.42 1077.5166,-2215.9885 1084.3546,-2213.6991 " />
+  </g>
+  <g
+     class="node"
+     id="node42"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title756">n9707</title>
+    <g
+       id="a_node42">
+      <a
+         id="a760"
+         xlink:title="Internet Protocol (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=9707">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text758"
+           font-size="24.00"
+           y="-1931.4692"
+           x="726.18109">Internet Protocol (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node57"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title764">n3010</title>
+    <g
+       id="a_node57">
+      <a
+         id="a768"
+         xlink:title="Networking and Web Interaction (20)"
+         xlink:href="http://rosettacode.org/wiki?curid=3010">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text766"
+           font-size="24.00"
+           y="-1235.375"
+           x="819.12952">Networking and Web Interaction (20)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge51"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title772">n9707-&gt;n3010</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path774"
+       d="m 728.6672,-1920.0504 c 12.7169,95.237 70.5092,528.0458 86.4052,647.0915" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon776"
+       points="816.6789,-1260.9279 819.8495,-1267.4046 815.0906,-1272.8224 811.9199,-1266.3457 " />
+  </g>
+  <g
+     class="edge"
+     id="edge52"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title779">n9707-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path781"
+       d="m 752.7887,-1957.1356 c 74.0946,-51.4236 282.8958,-196.337 367.5786,-255.1091" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon783"
+       points="1130.2969,-2219.136 1123.087,-2219.0012 1120.4385,-2212.294 1127.6484,-2212.4289 " />
+  </g>
+  <g
+     class="node"
+     id="node43"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title786">n9708</title>
+    <g
+       id="a_node43">
+      <a
+         id="a790"
+         xlink:title="Internet Protocol (Multiprotocol) (1)"
+         xlink:href="http://rosettacode.org/wiki?curid=9708">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text788"
+           font-size="24.00"
+           y="-2106.4641"
+           x="470.63501">Internet Protocol (Multiprotocol) (1)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge53"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title794">n9708-&gt;n9707</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path796"
+       d="m 497.4999,-2095.2672 c 45.9163,31.4429 139.5654,95.5726 191.6491,131.2389" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon798"
+       points="699.2927,-1957.0821 696.6022,-1963.7725 689.3916,-1963.8622 692.0821,-1957.1718 " />
+  </g>
+  <g
+     class="node"
+     id="node44"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title801">n9704</title>
+    <g
+       id="a_node44">
+      <a
+         id="a805"
+         xlink:title="Internet Protocol 4 (0)"
+         xlink:href="http://rosettacode.org/wiki?curid=9704">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text803"
+           font-size="24.00"
+           y="-1982.177"
+           x="442.68021">Internet Protocol 4 (0)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge54"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title809">n9704-&gt;n9707</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path811"
+       d="m 545.0305,-1971.0703 c 21.5454,3.8537 44.41,7.9433 66.3771,11.8724" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon813"
+       points="623.5051,-1957.0341 618.3031,-1962.0281 611.6926,-1959.147 616.8945,-1954.1531 " />
+  </g>
+  <g
+     class="node"
+     id="node45"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title816">n9705</title>
+    <g
+       id="a_node45">
+      <a
+         id="a820"
+         xlink:title="Internet Protocol 6 (0)"
+         xlink:href="http://rosettacode.org/wiki?curid=9705">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text818"
+           font-size="24.00"
+           y="-1855.9056"
+           x="425.8194">Internet Protocol 6 (0)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge55"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title824">n9705-&gt;n9707</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path826"
+       d="m 498.9121,-1881.494 c 43.0389,-10.8275 97.6667,-24.5705 142.5777,-35.869" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon828"
+       points="653.2817,-1920.3296 646.4871,-1922.7448 641.6443,-1917.4018 648.439,-1914.9865 " />
+  </g>
+  <g
+     class="node"
+     id="node46"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title831">n9459</title>
+    <g
+       id="a_node46">
+      <a
+         id="a835"
+         xlink:title="Irrational numbers (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=9459">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text833"
+           font-size="24.00"
+           y="-1084.8586"
+           x="2436.4167">Irrational numbers (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge57"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title839">n9459-&gt;n3304</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path841"
+       d="m 2444.6419,-1110.5289 c 56.9708,-127.9335 392.7125,-881.8731 464.0689,-1042.1107" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon843"
+       points="2913.7398,-2163.9327 2907.6449,-2160.0788 2908.8581,-2152.9705 2914.953,-2156.8244 " />
+  </g>
+  <g
+     class="edge"
+     id="edge56"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title846">n9459-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path848"
+       d="m 2409.1254,-1110.5257 c -152.3989,-103.1231 -897.6029,-607.3772 -1073.6013,-726.4693" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon850"
+       points="1325.4604,-1843.8047 1328.188,-1837.1293 1335.399,-1837.0796 1332.6714,-1843.755 " />
+  </g>
+  <g
+     class="node"
+     id="node47"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title853">n2823</title>
+    <g
+       id="a_node47">
+      <a
+         id="a857"
+         xlink:title="Iteration (22)"
+         xlink:href="http://rosettacode.org/wiki?curid=2823">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text855"
+           font-size="24.00"
+           y="-1576.1667"
+           x="718.31909">Iteration (22)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge58"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title861">n2823-&gt;n3006</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path863"
+       d="m 656.8374,-1601.761 c -47.1457,-14.1053 -112.3639,-33.6176 -162.1751,-48.5203" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon865"
+       points="482.9968,-1653.7715 487.5985,-1648.2195 494.4933,-1650.3318 489.8916,-1655.8838 " />
+  </g>
+  <g
+     class="edge"
+     id="edge60"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title868">n2823-&gt;n1939</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path870"
+       d="m 668.403,-1565.0642 c -46.1038,16.9046 -114.7318,42.0681 -164.2052,60.2082" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon872"
+       points="492.69,-1500.6364 499.7003,-1498.9465 503.9565,-1504.7675 496.9462,-1506.4575 " />
+  </g>
+  <g
+     class="node"
+     id="node53"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title875">n9826</title>
+    <g
+       id="a_node53">
+      <a
+         id="a879"
+         xlink:title="Loops (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=9826">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text877"
+           font-size="24.00"
+           y="-1350.8126"
+           x="470.63501">Loops (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge59"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title883">n2823-&gt;n9826</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path885"
+       d="m 698.0501,-1564.925 c -43.7418,39.7982 -147.1419,133.8762 -198.0538,180.1982" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon887"
+       points="490.8367,-1376.393 497.9666,-1377.4723 499.7127,-1384.4688 492.5827,-1383.3896 " />
+  </g>
+  <g
+     class="edge"
+     id="edge61"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title890">n2823-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path892"
+       d="m 730.7336,-1601.8893 c 61.3593,-91.5491 332.2654,-495.7461 406.8992,-607.101" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon894"
+       points="1144.4207,-2219.1181 1137.7575,-2216.361 1137.7397,-2209.1499 1144.4029,-2211.907 " />
+  </g>
+  <g
+     class="node"
+     id="node48"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title897">n2236</title>
+    <g
+       id="a_node48">
+      <a
+         id="a901"
+         xlink:title="JSON (6)"
+         xlink:href="http://rosettacode.org/wiki?curid=2236">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text899"
+           font-size="24.00"
+           y="-3511.6738"
+           x="401.00641">JSON (6)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge62"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title905">n2236-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path907"
+       d="m 434.2301,-3537.4076 c 115.6426,-64.5111 500.5919,-279.2548 631.3827,-352.2163" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon909"
+       points="1076.3881,-3895.6349 1069.1995,-3896.2051 1065.9084,-3889.7888 1073.097,-3889.2186 " />
+  </g>
+  <g
+     class="node"
+     id="node81"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title912">n11748</title>
+    <g
+       id="a_node81">
+      <a
+         id="a916"
+         xlink:title="Solutions by Format (5)"
+         xlink:href="http://rosettacode.org/wiki?curid=11748">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text914"
+           font-size="24.00"
+           y="-3288.7942"
+           x="583.40363">Solutions by Format (5)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge63"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title920">n2236-&gt;n11748</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path922"
+       d="m 416.2438,-3500.2545 c 32.0662,39.1832 106.6625,130.3358 144.4112,176.4626" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon924"
+       points="568.3379,-3314.4038 567.6335,-3321.5804 560.738,-3323.6905 561.4424,-3316.5138 " />
+  </g>
+  <g
+     class="node"
+     id="node49"
+     transform="translate(-109.10039,4314.4092)">
+    <title
+       id="title927">n12948</title>
+    <g
+       id="a_node49">
+      <a
+         id="a931"
+         xlink:title="Keyboard input (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=12948">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text929"
+           font-size="24.00"
+           y="-3740.1995"
+           x="1726.4773"
+           x-style="font-size:24px">Keyboard input (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge64"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title935">n12948-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path937"
+       d="m 1702.2874,-3729.0286 c -90.3584,68.6222 -408.2725,310.0602 -513.307,389.828" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon939"
+       points="1179.212,-3331.782 1186.4094,-3332.2253 1188.7685,-3339.0397 1181.571,-3338.5964 " />
+  </g>
+  <g
+     class="node"
+     id="node50"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title942">n2742</title>
+    <g
+       id="a_node50">
+      <a
+         id="a946"
+         xlink:title="Language_users (473)"
+         xlink:href="http://rosettacode.org/wiki?curid=2742">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text944"
+           font-size="24.00"
+           y="-1576.1667"
+           x="3002.0498">Language_users (473)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node88"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title950">n1</title>
+    <g
+       id="a_node88">
+      <a
+         id="a954"
+         xlink:title="Special Pages (virtual) (85)"
+         xlink:href="http://rosettacode.org/wiki?curid=-1">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text952"
+           font-size="24.00"
+           y="-1652.278"
+           x="2720.8035">Special Pages (virtual) (85)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge65"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title958">n2742-&gt;n1</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path960"
+       d="m 2934.3263,-1601.6941 c -40.2629,-10.896 -91.5464,-24.7744 -133.7623,-36.1989" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon962"
+       points="2788.9141,-1641.0457 2793.6608,-1635.6172 2800.4974,-1637.9109 2795.7507,-1643.3394 " />
+  </g>
+  <g
+     class="node"
+     id="node51"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title965">n5191</title>
+    <g
+       id="a_node51">
+      <a
+         id="a969"
+         xlink:title="Languages (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=5191">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text967"
+           font-size="24.00"
+           y="-3634.6423"
+           x="1203.3705">Languages (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge66"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title973">n5191-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path975"
+       d="m 1200.6322,-3623.2432 c -7.979,54.1953 -31.2653,212.3616 -41.1238,279.3231" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon977"
+       points="1157.7242,-3331.8017 1162.5555,-3337.155 1159.4722,-3343.6737 1154.6408,-3338.3203 " />
+  </g>
+  <g
+     class="node"
+     id="node52"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title980">n10388</title>
+    <g
+       id="a_node52">
+      <a
+         id="a984"
+         xlink:title="Logic (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=10388">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text982"
+           font-size="24.00"
+           y="-1138.3053"
+           x="2491.0591">Logic (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge67"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title988">n10388-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path990"
+       d="m 2460.3745,-1163.9425 c -163.7526,-98.3927 -934.2296,-561.3431 -1121.1996,-673.6863" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon992"
+       points="1328.7055,-1843.9195 1331.7883,-1837.4006 1338.9915,-1837.739 1335.9086,-1844.2579 " />
+  </g>
+  <g
+     class="edge"
+     id="edge68"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title995">n10388-&gt;n9493</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path997"
+       d="m 2437.9621,-1151.4312 c -240.0864,-26.7952 -1226.5938,-136.8955 -1552.968,-173.3209" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon999"
+       points="872.7344,-1326.1203 878.2537,-1321.4795 884.6603,-1324.7892 879.1411,-1329.4301 " />
+  </g>
+  <g
+     class="edge"
+     id="edge69"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1002">n10388-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1004"
+       d="M 2468.4592,-1164.0003 C 2310.6613,-1293.137 1374.507,-2059.2551 1188.7547,-2211.2687" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1006"
+       points="1179.2734,-2219.0279 1181.3834,-2212.1324 1188.5601,-2211.428 1186.4501,-2218.3235 " />
+  </g>
+  <g
+     class="edge"
+     id="edge70"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1009">n9826-&gt;n1939</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1011"
+       d="m 466.5101,-1376.3516 c -4.4801,-19.9186 -11.7079,-52.0537 -17.0302,-75.7165" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1013"
+       points="446.822,-1463.8854 444.2361,-1457.1539 449.4553,-1452.1779 452.0411,-1458.9094 " />
+  </g>
+  <g
+     class="edge"
+     id="edge71"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1016">n3001-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1018"
+       d="m 1291.3032,-1880.5877 c -22.758,-60.3534 -95.4199,-253.0502 -123.4237,-327.3153" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1020"
+       points="1163.6341,-2219.1617 1162.0084,-2212.1362 1167.8681,-2207.9334 1169.4939,-2214.9589 " />
+  </g>
+  <g
+     class="edge"
+     id="edge72"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1023">n9493-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1025"
+       d="m 787.3127,-1354.9191 c 47.2982,-112.9993 298.2789,-712.612 357.0806,-853.0941" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1027"
+       points="1149.0352,-2219.103 1143.0287,-2215.1128 1144.4018,-2208.0336 1150.4083,-2212.0239 " />
+  </g>
+  <g
+     class="node"
+     id="node56"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1030">n3009</title>
+    <g
+       id="a_node56">
+      <a
+         id="a1034"
+         xlink:title="Matrices (17)"
+         xlink:href="http://rosettacode.org/wiki?curid=3009">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1032"
+           font-size="24.00"
+           y="-1196.3721"
+           x="2540.7642">Matrices (17)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge73"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1038">n3009-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1040"
+       d="m 2506.2346,-1221.876 c -175.0381,-92.7866 -963.7624,-510.8843 -1162.4586,-616.2119" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1042"
+       points="1332.8802,-1843.8637 1336.3079,-1837.5194 1343.4826,-1838.2433 1340.0548,-1844.5877 " />
+  </g>
+  <g
+     class="edge"
+     id="edge74"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1045">n3009-&gt;n9493</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1047"
+       d="m 2467.6098,-1209.0942 c -276.3826,-20.8629 -1257.7045,-94.9384 -1582.6435,-119.4666" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1049"
+       points="872.76,-1329.4822 878.4419,-1325.0418 884.726,-1328.5788 879.0441,-1333.0191 " />
+  </g>
+  <g
+     class="edge"
+     id="edge75"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1052">n3010-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1054"
+       d="m 825.4239,-1261.1245 c 41.0008,-120.8301 270.0106,-795.7249 321.1675,-946.4849" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1056"
+       points="1150.476,-2219.0575 1144.7601,-2214.661 1146.6199,-2207.6939 1152.3358,-2212.0904 " />
+  </g>
+  <g
+     class="edge"
+     id="edge76"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1059">n4476-&gt;n5191</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1061"
+       d="m 1115.9893,-3895.4133 c 15.9746,46.3566 57.4927,166.8378 76.9863,223.4063" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1063"
+       points="1197.0001,-3660.3286 1198.827,-3667.3045 1193.0904,-3671.6739 1191.2635,-3664.698 " />
+  </g>
+  <g
+     class="node"
+     id="node59"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1066">n3128</title>
+    <g
+       id="a_node59">
+      <a
+         id="a1070"
+         xlink:title="Object oriented (18)"
+         xlink:href="http://rosettacode.org/wiki?curid=3128">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1068"
+           font-size="24.00"
+           y="-1145.2966"
+           x="866.79797">Object oriented (18)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge77"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1074">n3128-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1076"
+       d="m 871.7087,-1170.8733 c 33.9789,-127.1574 234.0578,-875.8999 276.9324,-1036.3467" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1078"
+       points="1151.7721,-2218.9369 1146.3587,-2214.1729 1148.6741,-2207.3436 1154.0875,-2212.1076 " />
+  </g>
+  <g
+     class="node"
+     id="node60"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1081">n21224</title>
+    <g
+       id="a_node60">
+      <a
+         id="a1085"
+         xlink:title="Palindromes (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=21224">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1083"
+           font-size="24.00"
+           y="-317.08981"
+           x="2145.0193">Palindromes (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node97"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1089">n3005</title>
+    <g
+       id="a_node97">
+      <a
+         id="a1093"
+         xlink:title="Text processing (37)"
+         xlink:href="http://rosettacode.org/wiki?curid=3005">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1091"
+           font-size="24.00"
+           y="-610.58411"
+           x="2137.7793">Text processing (37)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge78"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1097">n21224-&gt;n3005</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1099"
+       d="m 2144.5663,-342.6492 c -1.2113,-49.1045 -4.5352,-183.8487 -6.0352,-244.6548" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1101"
+       points="2138.2319,-599.4317 2134.3812,-593.3348 2138.528,-587.4353 2142.3787,-593.5322 " />
+  </g>
+  <g
+     class="node"
+     id="node61"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1104">n15842</title>
+    <g
+       id="a_node61">
+      <a
+         id="a1108"
+         xlink:title="Percolation Simulations (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=15842">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1106"
+           font-size="24.00"
+           y="-3395.5312"
+           x="726.28668">Percolation Simulations (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge79"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1112">n15842-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1114"
+       d="m 814.3403,-3384.3854 c 76.4873,15.9359 186.325,38.8203 260.426,54.2591" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1116"
+       points="1086.7977,-3327.6196 1081.7397,-3332.7593 1075.05,-3330.0673 1080.108,-3324.9275 " />
+  </g>
+  <g
+     class="node"
+     id="node62"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1119">n3151</title>
+    <g
+       id="a_node62">
+      <a
+         id="a1123"
+         xlink:title="Primary Categories (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=3151">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1121"
+           font-size="24.00"
+           y="-1553.0702"
+           x="2408.7751">Primary Categories (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node63"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1127">n2535</title>
+    <g
+       id="a_node63">
+      <a
+         id="a1131"
+         xlink:title="Prime Numbers (13)"
+         xlink:href="http://rosettacode.org/wiki?curid=2535">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1129"
+           font-size="24.00"
+           y="-1258.6047"
+           x="2585.1426">Prime Numbers (13)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge81"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1135">n2535-&gt;n3304</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1137"
+       d="m 2591.8723,-1284.1174 c 41.86,-113.9099 266.522,-725.2616 319.1371,-868.438" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1139"
+       points="2915.2934,-2164.2132 2909.4693,-2159.9611 2911.1542,-2152.9496 2916.9783,-2157.2017 " />
+  </g>
+  <g
+     class="edge"
+     id="edge80"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1142">n2535-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1144"
+       d="m 2545.5715,-1284.1442 c -187.6313,-86.9588 -987.2831,-457.5622 -1196.8834,-554.7026" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1146"
+       points="1337.7256,-1843.9275 1341.4874,-1837.7753 1348.6132,-1838.8815 1344.8514,-1845.0337 " />
+  </g>
+  <g
+     class="node"
+     id="node64"
+     transform="translate(-262.64909,4028.3237)">
+    <title
+       id="title1149">n9768</title>
+    <g
+       id="a_node64">
+      <a
+         id="a1153"
+         xlink:title="Printer (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=9768">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1151"
+           font-size="24.00"
+           y="-11.2"
+           x="2050.9453">Printer (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node65"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1164">n3282</title>
+    <g
+       id="a_node65">
+      <a
+         id="a1168"
+         xlink:title="Probability and statistics (19)"
+         xlink:href="http://rosettacode.org/wiki?curid=3282">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1166"
+           font-size="24.00"
+           y="-1324.5159"
+           x="2623.8474">Probability and statistics (19)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge83"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1172">n3282-&gt;n3001</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1174"
+       d="m 2577.8314,-1350.1316 c -200.9208,-80.4092 -1001.1084,-400.6469 -1222.5516,-489.2692" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1176"
+       points="1343.9558,-1843.9327 1348.04,-1837.9897 1355.0967,-1839.474 1351.0125,-1845.417 " />
+  </g>
+  <g
+     class="node"
+     id="node66"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1179">n3011</title>
+    <g
+       id="a_node66">
+      <a
+         id="a1183"
+         xlink:title="Programming environment operations (31)"
+         xlink:href="http://rosettacode.org/wiki?curid=3011">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1181"
+           font-size="24.00"
+           y="-1059.7838"
+           x="922.24109">Programming environment operations (31)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge84"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1187">n3011-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1189"
+       d="m 925.9243,-1085.3695 c 26.746,-133.5093 191.0586,-953.7171 224.7639,-1121.9659" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1191"
+       points="1153.0519,-2219.134 1147.9512,-2214.0366 1150.6946,-2207.3678 1155.7953,-2212.4651 " />
+  </g>
+  <g
+     class="edge"
+     id="edge85"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1194">n9452-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1196"
+       d="m 987.5854,-1005.3573 c 19.2204,-140.0128 140.8143,-1025.7702 164.9719,-1201.7475" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1198"
+       points="1154.2141,-2219.1743 1149.4352,-2213.774 1152.582,-2207.2858 1157.3609,-2212.686 " />
+  </g>
+  <g
+     class="node"
+     id="node68"
+     transform="translate(-268.30614,3988.7243)">
+    <title
+       id="title1201">n1537</title>
+    <g
+       id="a_node68">
+      <a
+         id="a1205"
+         xlink:title="Programming Tasks (870)"
+         xlink:href="http://rosettacode.org/wiki?curid=1537">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1203"
+           font-size="24.00"
+           y="-919.63831"
+           x="3264.1843">Programming Tasks (870)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="node"
+     id="node69"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1209">n2153</title>
+    <g
+       id="a_node69">
+      <a
+         id="a1213"
+         xlink:title="Puzzles (34)"
+         xlink:href="http://rosettacode.org/wiki?curid=2153">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1211"
+           font-size="24.00"
+           y="-905.09039"
+           x="1054.658">Puzzles (34)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge87"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1217">n2153-&gt;n2</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1219"
+       d="m 1066.702,-930.7752 c 126.3165,-193.8664 1206.8005,-1852.159 1362.4681,-2091.0725" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1221"
+       points="2435.8763,-3032.1402 2429.2494,-3029.2967 2429.3253,-3022.086 2435.9522,-3024.9294 " />
+  </g>
+  <g
+     class="edge"
+     id="edge86"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1224">n2153-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1226"
+       d="m 1056.1009,-931.0237 c 11.1986,-145.3942 84.1726,-1092.8361 98.2705,-1275.8728" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1228"
+       points="1155.3002,-2218.9555 1150.8512,-2213.2804 1154.3786,-2206.991 1158.8276,-2212.666 " />
+  </g>
+  <g
+     class="node"
+     id="node70"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1231">n9499</title>
+    <g
+       id="a_node70">
+      <a
+         id="a1235"
+         xlink:title="Randomness (10)"
+         xlink:href="http://rosettacode.org/wiki?curid=9499">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1233"
+           font-size="24.00"
+           y="-837.12061"
+           x="1130.5955">Randomness (10)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge88"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1239">n9499-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1241"
+       d="m 1130.9402,-862.7021 c 2.7893,-148.7078 21.6515,-1154.3122 25.2088,-1343.9617" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1243"
+       points="1156.3782,-2218.8855 1152.2663,-2212.9616 1156.1531,-2206.8876 1160.2649,-2212.8115 " />
+  </g>
+  <g
+     class="node"
+     id="node71"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1246">n3215</title>
+    <g
+       id="a_node71">
+      <a
+         id="a1250"
+         xlink:title="Raster graphics operations (17)"
+         xlink:href="http://rosettacode.org/wiki?curid=3215">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1248"
+           font-size="24.00"
+           y="-2345.2175"
+           x="558.86578">Raster graphics operations (17)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge90"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1254">n3215-&gt;n18202</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1256"
+       d="m 577.5881,-2370.7301 c 97.8572,-95.7158 550.4861,-538.4399 667.3574,-652.7537" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1258"
+       points="1253.6881,-3032.0352 1246.6018,-3030.6992 1245.1094,-3023.6442 1252.1958,-3024.9801 " />
+  </g>
+  <g
+     class="edge"
+     id="edge89"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1261">n3215-&gt;n3221</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1263"
+       d="m 597.5489,-2334.089 c 45.6818,21.6445 121.7651,57.6937 171.8034,81.4023" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1265"
+       points="780.2341,-2247.5307 776.5247,-2253.7146 769.3898,-2252.6689 773.0992,-2246.4851 " />
+  </g>
+  <g
+     class="node"
+     id="node72"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1268">n2490</title>
+    <g
+       id="a_node72">
+      <a
+         id="a1272"
+         xlink:title="Recursion (25)"
+         xlink:href="http://rosettacode.org/wiki?curid=2490">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1270"
+           font-size="24.00"
+           y="-776.12811"
+           x="1212.2428">Recursion (25)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge91"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1276">n2490-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1278"
+       d="M 1211.5409,-801.7139 C 1205.7096,-954.4572 1165.3287,-2012.1697 1157.9,-2206.753" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1280"
+       points="1157.432,-2219.0128 1153.6638,-2212.8645 1157.8899,-2207.0215 1161.658,-2213.1698 " />
+  </g>
+  <g
+     class="edge"
+     id="edge92"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1283">n1866-&gt;n3151</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1285"
+       d="m 2627.6646,-1419.3964 c -44.4845,-28.6295 -129.7961,-83.5347 -179.7644,-115.6935" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1287"
+       points="2437.5019,-1541.7822 2440.3825,-1535.1714 2447.5927,-1535.2878 2444.712,-1541.8986 " />
+  </g>
+  <g
+     class="node"
+     id="node75"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1290">n3322</title>
+    <g
+       id="a_node75">
+      <a
+         id="a1294"
+         xlink:title="Rosetta Code related (9)"
+         xlink:href="http://rosettacode.org/wiki?curid=3322">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1292"
+           font-size="24.00"
+           y="-1677.6815"
+           x="3011.0569">Rosetta Code related (9)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge93"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1298">n3322-&gt;n1</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1300"
+       d="m 2885.8573,-1673.9238 c -4.2721,0.374 -8.5677,0.7499 -12.8716,1.1266" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1302"
+       points="2860.8472,-1671.7348 2867.1732,-1668.2732 2872.8015,-1672.7812 2866.4756,-1676.2428 " />
+  </g>
+  <g
+     class="node"
+     id="node76"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1305">n21246</title>
+    <g
+       id="a_node76">
+      <a
+         id="a1309"
+         xlink:title="Routing algorithms (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=21246">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1307"
+           font-size="24.00"
+           y="-722.59027"
+           x="1298.9613">Routing algorithms (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge94"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1313">n21246-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1315"
+       d="m 1297.2143,-748.3091 c -14.7816,-156.6854 -118.831,-1259.6117 -137.5922,-1458.4811" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1317"
+       points="1158.4888,-2218.8039 1155.07,-2212.4547 1159.6159,-2206.857 1163.0347,-2213.2062 " />
+  </g>
+  <g
+     class="node"
+     id="node77"
+     transform="translate(0,4313.7171)">
+    <title
+       id="title1320">n7589</title>
+    <g
+       id="a_node77">
+      <a
+         id="a1324"
+         xlink:title="sciences (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=7589">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1322"
+           font-size="24.00"
+           y="-676.92621"
+           x="1390.0721"
+           x-style="font-size:24px">sciences (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge95"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1328">n7589-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1330"
+       d="M 1387.289,-702.6532 C 1363.3011,-862.338 1191.6161,-2005.2259 1161.2961,-2207.063" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1332"
+       points="1159.5065,-2218.9763 1156.4422,-2212.4486 1161.2892,-2207.1094 1164.3535,-2213.6371 " />
+  </g>
+  <g
+     class="edge"
+     id="edge96"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1335">n18149-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1337"
+       d="m 144.2038,-1754.3764 c 104.8273,-161.6808 863.0393,-1331.112 992.1455,-1530.2395" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1339"
+       points="1142.9885,-3294.8559 1136.3681,-3291.9976 1136.4602,-3284.7871 1143.0807,-3287.6454 " />
+  </g>
+  <g
+     class="node"
+     id="node79"
+     transform="translate(-58.995026,4307.9439)">
+    <title
+       id="title1342">n4341</title>
+    <g
+       id="a_node79">
+      <a
+         id="a1346"
+         xlink:title="Software Engineering (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=4341">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1344"
+           font-size="24.00"
+           y="-639.4931"
+           x="1484.8622">Software Engineering (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge97"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1350">n4341-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1352"
+       d="M 1481.0636,-665.1085 C 1447.7214,-826.75 1205.1374,-2002.7873 1162.9682,-2207.2219" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1354"
+       points="1160.5357,-2219.0148 1157.8303,-2212.3304 1162.96,-2207.2622 1165.6653,-2213.9466 " />
+  </g>
+  <g
+     class="node"
+     id="node80"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1357">n1688</title>
+    <g
+       id="a_node80">
+      <a
+         id="a1361"
+         xlink:title="Solutions (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=1688">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1359"
+           font-size="24.00"
+           y="-1465.2861"
+           x="2683.0706">Solutions (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge98"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1365">n1688-&gt;n3151</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1367"
+       d="m 2625.5693,-1490.8885 c -43.0653,-13.7824 -102.1644,-32.6962 -147.7817,-47.2953" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1369"
+       points="2466.2008,-1541.892 2470.696,-1536.2535 2477.6298,-1538.2342 2473.1345,-1543.8728 " />
+  </g>
+  <g
+     class="edge"
+     id="edge99"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1372">n11748-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1374"
+       d="m 706.7313,-3299.7511 c 111.3039,-3.3905 271.8378,-8.2806 367.5513,-11.1961" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1376"
+       points="1086.4855,-3311.319 1080.3665,-3315.1344 1074.4911,-3310.9535 1080.6101,-3307.1381 " />
+  </g>
+  <g
+     class="edge"
+     id="edge100"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1379">n1737-&gt;n3151</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1381"
+       d="m 2184.7566,-1654.3358 c 46.0302,19.3282 118.7217,49.8513 168.7463,70.8567" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1383"
+       points="2364.757,-1578.7535 2360.7735,-1584.7645 2353.6928,-1583.3994 2357.6762,-1577.3884 " />
+  </g>
+  <g
+     class="node"
+     id="node90"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1386">n4751</title>
+    <g
+       id="a_node90">
+      <a
+         id="a1390"
+         xlink:title="Static Category Cache (11)"
+         xlink:href="http://rosettacode.org/wiki?curid=4751">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1388"
+           font-size="24.00"
+           y="-1737.7314"
+           x="2433.9304">Static Category Cache (11)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge101"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1394">n1737-&gt;n4751</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1396"
+       d="m 2277.6906,-1678.3718 c 1.9565,-0.082 3.9155,-0.1644 5.8754,-0.2467" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1398"
+       points="2295.6052,-1679.124 2289.4426,-1682.8687 2283.6157,-1678.6205 2289.7783,-1674.8758 " />
+  </g>
+  <g
+     class="node"
+     id="node83"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1401">n1689</title>
+    <g
+       id="a_node83">
+      <a
+         id="a1405"
+         xlink:title="Solutions by Programming Language (44)"
+         xlink:href="http://rosettacode.org/wiki?curid=1689">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1403"
+           font-size="24.00"
+           y="-1439.0435"
+           x="2703.1255">Solutions by Programming Language (44)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge102"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1409">n1689-&gt;n3151</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1411"
+       d="m 2492.3369,-1556.2882 c -0.046,0 -0.092,0 -0.1382,-0.01" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1413"
+       points="2492.0605,-1556.3014 2497.8606,-1552.0162 2504.0469,-1555.7219 2498.2469,-1560.0071 " />
+  </g>
+  <g
+     class="edge"
+     id="edge103"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1416">n1754-&gt;n3151</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1418"
+       d="m 1190.8656,-2219.0143 c 175.4029,94.8722 974.7108,527.2025 1173.1967,634.5597" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1420"
+       points="2374.6672,-1578.7186 2371.2927,-1585.0914 2364.1122,-1584.4276 2367.4867,-1578.0548 " />
+  </g>
+  <g
+     class="node"
+     id="node85"
+     transform="translate(3.2326041,4311.6364)">
+    <title
+       id="title1423">n3002</title>
+    <g
+       id="a_node85">
+      <a
+         id="a1427"
+         xlink:title="Sorting (12)"
+         xlink:href="http://rosettacode.org/wiki?curid=3002">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1425"
+           font-size="24.00"
+           y="-610.58411"
+           x="1582.5896"
+           x-style="font-size:24px">Sorting (12)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge105"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1431">n3002-&gt;n3304</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1433"
+       d="m 1598.3296,-636.172 c 137.4815,-160.6101 1133.1592,-1323.791 1300.016,-1518.7182" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1435"
+       points="2906.2885,-2164.1693 2899.348,-2162.2123 2898.485,-2155.053 2905.4255,-2157.01 " />
+  </g>
+  <g
+     class="edge"
+     id="edge104"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1438">n3002-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1440"
+       d="m 1577.7336,-636.2531 c -43.0282,-163.6506 -358.7605,-1364.4836 -413.0657,-1571.024" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1442"
+       points="1161.6056,-2218.924 1159.2629,-2212.104 1164.6571,-2207.3184 1166.9999,-2214.1383 " />
+  </g>
+  <g
+     class="node"
+     id="node86"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1445">n2084</title>
+    <g
+       id="a_node86">
+      <a
+         id="a1449"
+         xlink:title="Sorting Algorithms (26)"
+         xlink:href="http://rosettacode.org/wiki?curid=2084">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1447"
+           font-size="24.00"
+           y="-331.07059"
+           x="1513.1909">Sorting Algorithms (26)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge106"
+     transform="matrix(1.0762419,0,0,1.0496741,-145.68964,4332.9188)">
+    <title
+       id="title1453">n2084-&gt;n3002</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1455"
+       d="m 1517.7444,-356.6102 c 11.6905,-47.0852 42.855,-172.6051 57.3001,-230.7849" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1457"
+       points="1572.6915,-594.5176 1575.1277,-587.7305 1580.4557,-592.5898 1578.0194,-599.3769 " />
+  </g>
+  <g
+     class="node"
+     id="node87"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1460">n18207</title>
+    <g
+       id="a_node87">
+      <a
+         id="a1464"
+         xlink:title="Sound (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=18207">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1462"
+           font-size="24.00"
+           y="-3169.8472"
+           x="450.51321">Sound (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge107"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1468">n18207-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1470"
+       d="m 506.3832,-3187.861 c 124.325,-24.0636 424.2141,-82.1084 568.4753,-110.0307" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1472"
+       points="1086.6487,-3300.1737 1079.9979,-3302.9607 1074.8674,-3297.8933 1081.5182,-3295.1064 " />
+  </g>
+  <g
+     class="node"
+     id="node89"
+     transform="translate(0,4321.2181)">
+    <title
+       id="title1475">n9469</title>
+    <g
+       id="a_node89">
+      <a
+         id="a1479"
+         xlink:title="Speech Synthesis (2)"
+         xlink:href="http://rosettacode.org/wiki?curid=9469">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1477"
+           font-size="24.00"
+           y="-590.42542"
+           x="1682.4897"
+           x-style="font-size:24px">Speech Synthesis (2)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge109"
+     transform="matrix(1.0735117,0,0,1.0387864,-85.29156,4401.3242)">
+    <title
+       id="title1483">n9469-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1485"
+       d="m 1676.5851,-616.0417 c -52.819,-164.7426 -443.7315,-1383.9984 -510.2492,-1591.4673" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1487"
+       points="1160.6939,-2212.0047 1166.3348,-2207.5125 1168.312,-2214.4472 1162.6711,-2218.9395 " />
+  </g>
+  <g
+     class="node"
+     id="node94"
+     transform="translate(9.6978124,4331.9426)">
+    <title
+       id="title1490">n4367</title>
+    <g
+       id="a_node94">
+      <a
+         id="a1494"
+         xlink:title="Temporal media (12)"
+         xlink:href="http://rosettacode.org/wiki?curid=4367">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1492"
+           font-size="24.00"
+           y="-576.92023"
+           x="1885.6691"
+           x-style="font-size:24px">Temporal media (12)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge108"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1498">n9469-&gt;n4367</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1500"
+       d="m 1791.2172,-590.3984 c 0.047,0.003 0.094,0.006 0.1415,0.009" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1502"
+       points="1791.5002,-590.3796 1785.7813,-594.7726 1779.5266,-591.1833 1785.2455,-586.7902 " />
+  </g>
+  <g
+     class="edge"
+     id="edge110"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1505">n4751-&gt;n1</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1507"
+       d="m 2572.3252,-1672.652 c 0.089,0.01 0.1791,0.016 0.2686,0.024" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1509"
+       points="2580.9254,-1671.8889 2575.3024,-1676.4036 2568.9723,-1672.9496 2574.5953,-1668.4349 " />
+  </g>
+  <g
+     class="node"
+     id="node91"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1512">n16049</title>
+    <g
+       id="a_node91">
+      <a
+         id="a1516"
+         xlink:title="String algorithm (3)"
+         xlink:href="http://rosettacode.org/wiki?curid=16049">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1514"
+           font-size="24.00"
+           y="-347.7872"
+           x="2268.6575">String algorithm (3)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge111"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1520">n16049-&gt;n3005</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1522"
+       d="m 2259.4543,-373.4665 c -22.3877,-44.9533 -79.8428,-160.3205 -107.0156,-214.8822" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1524"
+       points="2146.9722,-599.3252 2146.0664,-592.1712 2152.3217,-588.5835 2153.2275,-595.7376 " />
+  </g>
+  <g
+     class="node"
+     id="node92"
+     transform="translate(-22.628229,4379.9627)">
+    <title
+       id="title1527">n4647</title>
+    <g
+       id="a_node92">
+      <a
+         id="a1531"
+         xlink:title="String manipulation (44)"
+         xlink:href="http://rosettacode.org/wiki?curid=4647">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1529"
+           font-size="24.00"
+           y="-579.1748"
+           x="1783.7804"
+           x-style="font-size:24px">String manipulation (44)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge112"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1535">n4647-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1537"
+       d="m 1776.7383,-604.9174 c -63.0279,-165.9597 -529.7066,-1394.7788 -608.6755,-1602.7131" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1539"
+       points="1163.7153,-2219.078 1162.1062,-2212.0487 1167.9758,-2207.8597 1169.585,-2214.889 " />
+  </g>
+  <g
+     class="edge"
+     id="edge113"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1542">n4647-&gt;n3005</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1544"
+       d="m 1910.5822,-597.6255 c 35.1385,-3.1178 73.1543,-6.4908 107.8518,-9.5694" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1546"
+       points="2030.5584,-608.2707 2024.2283,-611.7247 2018.6053,-607.2101 2024.9354,-603.756 " />
+  </g>
+  <g
+     class="node"
+     id="node93"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1549">n4231</title>
+    <g
+       id="a_node93">
+      <a
+         id="a1553"
+         xlink:title="SVG (9)"
+         xlink:href="http://rosettacode.org/wiki?curid=4231">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1551"
+           font-size="24.00"
+           y="-4179.2148"
+           x="1015.7093">SVG (9)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge114"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1557">n4231-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1559"
+       d="m 1022.1587,-4167.6996 c 15.9746,46.3566 57.4928,166.8378 76.9864,223.4063" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1561"
+       points="1103.1695,-3932.6149 1104.9964,-3939.5908 1099.2598,-3943.9602 1097.4329,-3936.9843 " />
+  </g>
+  <g
+     class="edge"
+     id="edge115"
+     transform="matrix(0.93894696,0,0,0.94953734,71.011127,4203.1937)">
+    <title
+       id="title1564">n4367-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1566"
+       d="m 1877.4827,-602.6882 c -73.3056,-166.2691 -616.3182,-1397.9098 -707.7148,-1605.212" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1568"
+       points="1163.6113,-2211.9491 1169.6919,-2208.0726 1170.9315,-2215.1764 1164.8509,-2219.0528 " />
+  </g>
+  <g
+     class="node"
+     id="node95"
+     transform="translate(-138.19383,4238.443)">
+    <title
+       id="title1571">n9386</title>
+    <g
+       id="a_node95">
+      <a
+         id="a1575"
+         xlink:title="Terminal control (22)"
+         xlink:href="http://rosettacode.org/wiki?curid=9386">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1573"
+           font-size="24.00"
+           y="-583.67938"
+           x="1987.3583">Terminal control (22)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge117"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1579">n9386-&gt;n18201</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1581"
+       d="m 1989.3955,-572.5384 c 5.326,47.9508 19.7093,177.4445 26.3326,237.0747" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1583"
+       points="2017.0904,-323.1984 2020.4036,-329.6034 2015.7656,-335.1251 2012.4525,-328.7202 " />
+  </g>
+  <g
+     class="edge"
+     id="edge116"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1586">n9386-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1588"
+       d="m 1978.0299,-609.3715 c -83.5735,-165.6718 -702.9126,-1393.4169 -806.598,-1598.9573" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1590"
+       points="1165.9842,-2219.1282 1165.1152,-2211.9696 1171.3889,-2208.4142 1172.2579,-2215.5728 " />
+  </g>
+  <g
+     class="node"
+     id="node96"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1593">n4816</title>
+    <g
+       id="a_node96">
+      <a
+         id="a1597"
+         xlink:title="Testing (5)"
+         xlink:href="http://rosettacode.org/wiki?curid=4816">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1595"
+           font-size="24.00"
+           y="-367.20679"
+           x="1391.0316">Testing (5)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge118"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1601">n4816-&gt;n4341</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1603"
+       d="m 1397.481,-393.1222 c 15.9746,-46.3566 57.4927,-166.8378 76.9863,-223.4063" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1605"
+       points="1478.4918,-628.2069 1472.7552,-623.8375 1474.5821,-616.8616 1480.3187,-621.231 " />
+  </g>
+  <g
+     class="edge"
+     id="edge119"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1608">n3005-&gt;n1754</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1610"
+       d="M 2126.5925,-636.2531 C 2027.2714,-800.23 1297.2192,-2005.5298 1174.2793,-2208.5007" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1612"
+       points="1167.9659,-2218.924 1167.653,-2211.7196 1174.1829,-2208.6599 1174.4957,-2215.8643 " />
+  </g>
+  <g
+     class="node"
+     id="node98"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1615">n4220</title>
+    <g
+       id="a_node98">
+      <a
+         id="a1619"
+         xlink:title="Tr (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=4220">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1617"
+           font-size="24.00"
+           y="-4094.9905"
+           x="802.4317">Tr (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge120"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1623">n4220-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1625"
+       d="m 832.4377,-4083.816 c 55.5011,33.9869 174.2175,106.6845 236.7153,144.9559" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1627"
+       points="1079.4121,-3932.5778 1076.3842,-3939.1224 1069.1784,-3938.8446 1072.2063,-3932.3 " />
+  </g>
+  <g
+     class="node"
+     id="node99"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1630">n2976</title>
+    <g
+       id="a_node99">
+      <a
+         id="a1634"
+         xlink:title="Type System (14)"
+         xlink:href="http://rosettacode.org/wiki?curid=2976">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1632"
+           font-size="24.00"
+           y="-3039.6206"
+           x="328.6553">Type System (14)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge121"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1638">n2976-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1640"
+       d="m 385.4544,-3065.1441 c 147.3664,-47.5407 541.5595,-174.7084 701.1092,-226.1795" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1642"
+       points="1098.0934,-3295.0431 1091.1551,-3297.0078 1086.673,-3291.3588 1093.6113,-3289.3942 " />
+  </g>
+  <g
+     class="node"
+     id="node100"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1645">n10141</title>
+    <g
+       id="a_node100">
+      <a
+         id="a1649"
+         xlink:title="Unicode (4)"
+         xlink:href="http://rosettacode.org/wiki?curid=10141">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1647"
+           font-size="24.00"
+           y="-2899.1338"
+           x="218.78371">Unicode (4)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge122"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1653">n10141-&gt;n18196</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1655"
+       d="m 261.1369,-2924.7489 c 152.3187,-66.2279 672.1556,-292.2525 840.6752,-365.5246" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1657"
+       points="1112.8632,-3295.0785 1105.7658,-3296.3543 1101.8584,-3290.2936 1108.9558,-3289.0178 " />
+  </g>
+  <g
+     class="node"
+     id="node101"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1660">n18079</title>
+    <g
+       id="a_node101">
+      <a
+         id="a1664"
+         xlink:title="VPython (9)"
+         xlink:href="http://rosettacode.org/wiki?curid=18079">
+        <text
+           _style="font-size:24px;font-family:Impact;text-anchor:middle;fill:#999999"
+           id="text1662"
+           font-size="24.00"
+           y="-1792.3344"
+           x="3298.7749">VPython (9)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge123"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1668">n18079-&gt;n5281</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1670"
+       d="m 3230.9542,-1796.5314 c -51.3954,2.2756 -120.9614,5.3557 -167.9774,7.4374" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1672"
+       points="3050.9418,-1788.5611 3057.1129,-1784.8304 3062.9301,-1789.092 3056.759,-1792.8226 " />
+  </g>
+  <g
+     class="edge"
+     id="edge126"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1675">n18079-&gt;n9498</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1677"
+       d="m 3237.2933,-1817.9287 c -47.1457,-14.1053 -112.3639,-33.6176 -162.1751,-48.5203" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1679"
+       points="3063.4526,-1869.9391 3068.0543,-1864.3871 3074.9491,-1866.4995 3070.3474,-1872.0515 " />
+  </g>
+  <g
+     class="edge"
+     id="edge124"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1682">n18079-&gt;n18202</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1684"
+       d="M 3268.9562,-1817.9437 C 3040.9489,-1958.7097 1575.3727,-2863.5196 1312.7911,-3025.6309" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1686"
+       points="1302.2281,-3032.1522 1305.2322,-3025.5967 1312.439,-3025.8483 1309.4349,-3032.4039 " />
+  </g>
+  <g
+     class="node"
+     id="node102"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1701">n4103</title>
+    <g
+       id="a_node102">
+      <a
+         id="a1705"
+         xlink:title="XML (10)"
+         xlink:href="http://rosettacode.org/wiki?curid=4103">
+        <text
+           id="text1703"
+           font-size="24.00"
+           y="-3992.2463"
+           x="597.43237">XML (10)</text>
+      </a>
+    </g>
+  </g>
+  <g
+     class="edge"
+     id="edge127"
+     transform="translate(0,4315.2173)">
+    <title
+       id="title1709">n4103-&gt;n4476</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1711"
+       d="m 655.1822,-3989.8252 c 80.2216,13.3651 227.3562,37.8779 332.4618,55.3886" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1713"
+       points="999.6026,-3932.4443 994.3416,-3937.376 987.7658,-3934.4164 993.0268,-3929.4848 " />
+  </g>
+  <g
+     class="edge"
+     id="edge113-3"
+     transform="translate(-80.73186,4617.8785)">
+    <title
+       id="title1542-3">n4647-&gt;n3005</title>
+    <path
+       style="fill:none;stroke:#ffff00"
+       inkscape:connector-curvature="0"
+       id="path1544-0"
+       d="m 1910.5822,-597.6255 c 35.1385,-3.1178 73.1543,-6.4908 107.8518,-9.5694" />
+    <polygon
+       style="fill:#ffff00;stroke:#ffff00"
+       id="polygon1546-1"
+       points="2024.2283,-611.7247 2018.6053,-607.2101 2024.9354,-603.756 2030.5584,-608.2707 " />
+  </g>
+</svg>
